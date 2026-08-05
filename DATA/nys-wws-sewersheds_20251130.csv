@@ -1,0 +1,671 @@
+county,county_names,region,zipcode,wwtp_name,sw_id,epaid,site_id,sample_location,sample_location_specify,method,capacity_mgd,population_served,institution_type,reporting_jurisdiction,wwtp_jurisdiction,wwtp_latitude,wwtp_longitude
+Cayuga,36011,Central New York,13021,Auburn,36011NY0021903CCWW3,NY0021903,NY011021903B,upstream,Auburn - South Interceptor,Upstream Unknown,12,7575,not institution specific,ny,ny,42.94,-76.59
+Cayuga,36011,Central New York,13021,Auburn,36011NY0021903CCWW4,NY0021903,NY011021903C,upstream,Auburn - Owasco Interceptor,Upstream Unknown,12,17250,not institution specific,ny,ny,42.94,-76.59
+Cayuga,36011,Central New York,13021,Auburn,36011NY0021903CCWW2,NY0021903,NY011021903D,upstream,Auburn - North Interceptor,Upstream Unknown,12,7374,not institution specific,ny,ny,42.94,-76.59
+Cayuga,36011,Central New York,13021,Auburn,36011NY0021903CCWW1,NY0021903,NY011021903A,wwtp,Auburn - WPCP Influent,Influent,12,31814,not institution specific,ny,ny,42.94,-76.59
+Cayuga,36011,Central New York,13166,Weedsport - V WWTP,36011NY0020559CCWWB,NY0020559,NY011020559A,wwtp,Village of Weedsport,Influent,0.55,1810,not institution specific,ny,ny,43.05,-76.57
+Cayuga,36011,Central New York,13140,Port Byron - V WWTP,36011NY0020338CCWWC,NY0020338,NY011020338A,wwtp,Village of Port Byron,Influent,0.28,1179,not institution specific,ny,ny,43.04,-76.63
+Cayuga,36011,Central New York,13026,Aurora - V STP,36011NY0023558CCWWD,NY0023558,NY011023558A,wwtp,Village of Aurora,Influent,0.3,322,not institution specific,ny,ny,42.74,-76.7
+Cayuga,36011,Central New York,13118,Moravia - V STP,36011NY0022756CCWWE,NY0022756,NY011022756A,wwtp,Village of Moravia,Influent,0.6,2209,not institution specific,ny,ny,42.71,-76.43
+Cayuga,36011,Central New York,13034,Cayuga and Aurelius Joint WWTP,36011NY0262102CCWWF,NY0262102,NY011262102A,wwtp,Village of Cayuga,Influent,0.13,736,not institution specific,ny,ny,42.95,-76.73
+Cayuga,36011,Central New York,13160,Union Springs - V STP,36011NY0024228CCWWG,NY0024228,NY011024228A,wwtp,Union Springs,Influent,0.33,1441,not institution specific,ny,ny,42.84,-76.7
+Cortland,36023,Central New York,13045,Cortland,36023NY0027561001,NY0027561,NY023027561A,wwtp,Cortland,Influent,9,26950,not institution specific,ny,ny,42.6,-76.16
+Cortland,36023,Central New York,13045,Town of Virgil SD No 1 WWTP,36023NY0027197CCWWB,NY0027197,NY023027197A,wwtp,Town of Virgil SD,Influent,0.08,144,not institution specific,ny,ny,42.51,-76.14
+Cortland,36023,Central New York,13803,Marathon - V STP,36023NY0028363CCWWC,NY0028363,NY023028363A,wwtp,Village of Marathon,Influent,0.2,848,not institution specific,ny,ny,42.43,-76.03
+Cortland,36023,Central New York,13158,Cuyler - T SD No 1,36023NY0090867CCWWD,NY0090867,NY023090867A,wwtp,Cuyler SD,Influent,0.01,59,not institution specific,ny,ny,42.74,-75.95
+Monroe,36055,Finger Lakes,14617,Frank E Van Lare,36055NY0028339001,NY0028339,NY055028339B,upstream,IBPS Sewer Basin,Upstream Manhole,135,223733,not institution specific,ny,ny,43.24,-77.58
+Monroe,36055,Finger Lakes,14617,Frank E Van Lare,36055NY0028339002,NY0028339,NY055028339C,upstream,GCO Sewer Basin,Upstream Manhole,135,108703,not institution specific,ny,ny,43.24,-77.58
+Monroe,36055,Finger Lakes,14617,Frank E Van Lare,36055NY0028339003,NY0028339,NY055028339D,upstream,Norton and Jewel Sewer Basin,Upstream Manhole,135,77945,not institution specific,ny,ny,43.24,-77.58
+Monroe,36055,Finger Lakes,14617,Frank E Van Lare,36055NY0028339004,NY0028339,NY055028339E,upstream,Cliff St Sewer Basin,Upstream Manhole,135,51689,not institution specific,ny,ny,43.24,-77.58
+Monroe,36055,Finger Lakes,14617,Frank E Van Lare,36055NY0028339005,NY0028339,NY055028339F,upstream,Glenwood Basin,Upstream Manhole,135,25780,not institution specific,ny,ny,43.24,-77.58
+Monroe,36055,Finger Lakes,14468,NW Quadrant Pure Waters District,36055NY0028231006,NY0028231,NY055028231A,wwtp,Northwest Quadrant,Influent,22,155096,not institution specific,ny,ny,43.32,-77.74
+Monroe,36055,Finger Lakes,14617,Frank E Van Lare,36055NY0028339000,NY0028339,NY055028339A,wwtp,FEV WWTP - Rochester,Influent,135,487322,not institution specific,ny,ny,43.24,-77.58
+Monroe,36055,Finger Lakes,14472,Honeoye Falls - V WWTP,36055NY0025259MCWWC,NY0025259,NY055025259A,wwtp,Honeoye Falls,Influent,0.6,2772,not institution specific,ny,ny,42.96,-77.59
+Monroe,36055,Finger Lakes,14580,Webster - T STP,36055NY0021610MCWWD,NY0021610,NY055021610A,wwtp,Town of Webster,Influent,7.5,43074,not institution specific,ny,ny,43.26,-77.41
+Onondaga,36067,Central New York,13204,Metropolitan Syracuse WWTP,36067NY0027081603,NY0027081,NY067027081F,upstream,Metro - Ley Creek,Upstream Pump Station,84.2,49079,not institution specific,ny,ny,43.06,-76.18
+Onondaga,36067,Central New York,13204,Metropolitan Syracuse WWTP,36067NY0027081600,NY0027081,NY067027081G,upstream,Metro - Liverpool,Upstream Pump Station,84.2,3838,not institution specific,ny,ny,43.06,-76.18
+Onondaga,36067,Central New York,13204,Metropolitan Syracuse WWTP,36067NY0027081725,NY0027081,NY067027081H,upstream,Metro - Westside,Upstream Pump Station,84.2,45538,not institution specific,ny,ny,43.06,-76.18
+Onondaga,36067,Central New York,13204,Metropolitan Syracuse WWTP,36067NY00270811700,NY0027081,NY067027081I,upstream,Metro - Harbor Brook,Upstream Pump Station,84.2,16260,not institution specific,ny,ny,43.06,-76.18
+Onondaga,36067,Central New York,13027,Baldwinsville Seneca Knolls STP,36067NY0030571617,NY0030571,NY067030571A,wwtp,Baldwinsville,Influent,9,30613,not institution specific,ny,ny,43.14,-76.3
+Onondaga,36067,Central New York,13029,Brewerton WPCP,36067NY0027596619,NY0027596,NY067027596A,wwtp,Brewerton,Influent,3,16168,not institution specific,ny,ny,43.24,-76.16
+Onondaga,36067,Central New York,13041,Oak Orchard STP,36067NY0030317606,NY0030317,NY067030317A,wwtp,Oak Orchard,Influent,10,50727,not institution specific,ny,ny,43.2,-76.21
+Onondaga,36067,Central New York,13027,Wetzel Rd WWTP,36067NY0027618601,NY0027618,NY067027618A,wwtp,Wetzel Road,Influent,7,25965,not institution specific,ny,ny,43.15,-76.24
+Onondaga,36067,Central New York,13057,Meadowbrook/Limestone WWTP,36067NY0027723605,NY0027723,NY067027723A,wwtp,Meadowbrook/Limestone,Influent,6.5,39352,not institution specific,ny,ny,43.05,-76.01
+Onondaga,36067,Central New York,13204,Metropolitan Syracuse WWTP,36067NY0027081999C,NY0027081,NY067027081B,upstream,Metro - Butternut Ave,Upstream Manhole,84.2,19586,not institution specific,ny,ny,43.06,-76.18
+Onondaga,36067,Central New York,13204,Metropolitan Syracuse WWTP,36067NY0027081999A,NY0027081,NY067027081C,upstream,Metro - MIS At Midland RTF,Upstream Manhole,84.2,87743,not institution specific,ny,ny,43.06,-76.18
+Onondaga,36067,Central New York,13204,Metropolitan Syracuse WWTP,36067NY0027081999D,NY0027081,NY067027081D,upstream,Metro - Burnet Ave,Upstream Manhole,84.2,11521,not institution specific,ny,ny,43.06,-76.18
+Onondaga,36067,Central New York,13204,Metropolitan Syracuse WWTP,36067NY0027081999B,NY0027081,NY067027081E,upstream,Metro - Kirkpatrick At PS,Upstream Manhole,84.2,9577,not institution specific,ny,ny,43.06,-76.18
+Onondaga,36067,Central New York,13204,Metropolitan Syracuse WWTP,36067NY0027081610,NY0027081,NY067027081J,upstream,Metro - Main Interceptor Outfall,Upstream Unknown,84.2,128021,not institution specific,ny,ny,43.06,-76.18
+Onondaga,36067,Central New York,13204,Metropolitan Syracuse WWTP,36067NY0027081604,NY0027081,NY067027081A,wwtp,Metro - Influent,Influent,84.2,242377,not institution specific,ny,ny,43.06,-76.18
+Onondaga,36067,Central New York,13108,Marcellus - V STP,36067NY0020532OCWWG,NY0020532,NY067020532A,wwtp,Village of Marcellus,Influent,0.38,2370,not institution specific,ny,ny,43,-76.34
+Onondaga,36067,Central New York,13116,Village of Minoa STP,36067NY0025461OCWWH,NY0025461,NY067025461A,wwtp,Village of Minoa,Influent,0.99,3272,not institution specific,ny,ny,43.08,-76
+Onondaga,36067,Central New York,13080,Jordan STP,36067NY0105007OCWWI,NY0105007,NY067105007A,wwtp,Village of Jordan,Influent,0.16,1365,not institution specific,ny,ny,43.07,-76.47
+Onondaga,36067,Central New York,13152,Skaneateles,36067NY0094480OCWWJ,NY0094480,NY067094480A,wwtp,Village of Skaneateles,Influent,0.85,2756,not institution specific,ny,ny,42.96,-76.44
+Onondaga,36067,Central New York,13159,Tully - V STP,36067NY0026824OCWWK,NY0026824,NY067026824A,wwtp,Village of Tully,Influent,0.23,911,not institution specific,ny,ny,42.79,-76.11
+Tompkins,36109,Southern Tier,13073,Groton - V STP,36109NY0025585TCWWC,NY0025585,NY109025585A,wwtp,Village of Groton,Influent,0.5,1954,not institution specific,ny,ny,42.6,-76.37
+Tompkins,36109,Southern Tier,13068,Freeville - V STP,36109NY0110493TCWWD,NY0110493,NY109110493A,wwtp,Village of Freevillie,Influent,0.12,418,not institution specific,ny,ny,42.51,-76.34
+Tompkins,36109,Southern Tier,13053,Dryden - V STP,36109NY0029190TCWWE,NY0029190,NY109029190A,wwtp,Village of Dryden,Influent,0.6,2289,not institution specific,ny,ny,42.49,-76.31
+Tompkins,36109,Southern Tier,14867,Newfield - T SD 1,36109NY0110752TCWWF,NY0110752,NY109110752A,wwtp,Town of Newfield SD,Influent,0.03,509,not institution specific,ny,ny,42.37,-76.58
+Tompkins,36109,Southern Tier,14886,Trumansburg - V STP,36109NY0024902TCWWG,NY0024902,NY109024902A,wwtp,Village of Trumansburg,Influent,0.25,2276,not institution specific,ny,ny,42.54,-76.65
+Tompkins,36109,Southern Tier,14850,Cayuga Heights - V WWTP,36109NY0020958002,NY0020958,NY109020958A,wwtp,Cayuga Heights,Influent,2,9770,not institution specific,ny,ny,42.47,-76.5
+Tompkins,36109,Southern Tier,14850,Ithaca Area WWTF,36109NY0026638001,NY0026638,NY109026638A,wwtp,Ithaca Area - City and Town,Influent,13.1,56967,not institution specific,ny,ny,42.45,-76.51
+Saratoga,36091,Capital,12118,Saratoga County SD,36091NY0028240007,NY0028240,NY091028240B,upstream,Balston Spa Meter Pit,Upstream Unknown,43.4,8016,not institution specific,ny,ny,42.88,-73.69
+Saratoga,36091,Capital,12118,Saratoga County SD,36091NY0028240004,NY0028240,NY091028240C,upstream,Ushers,Upstream Unknown,43.4,39889,not institution specific,ny,ny,42.88,-73.69
+Saratoga,36091,Capital,12118,Saratoga County SD,36091NY0028240008,NY0028240,NY091028240D,upstream,Saratoga/Geyser,Upstream Unknown,43.4,44448,not institution specific,ny,ny,42.88,-73.69
+Saratoga,36091,Capital,12118,Saratoga County SD,36091NY0028240006,NY0028240,NY091028240E,upstream,Northline/Milton,Upstream Unknown,43.4,5233,not institution specific,ny,ny,42.88,-73.69
+Saratoga,36091,Capital,12118,Saratoga County SD,36091NY0028240009,NY0028240,NY091028240F,upstream,Wilton,Upstream Unknown,43.4,14795,not institution specific,ny,ny,42.88,-73.69
+Saratoga,36091,Capital,12118,Saratoga County SD,36091NY0028240005,NY0028240,NY091028240G,upstream,Saratoga Lake,Upstream Unknown,43.4,10425,not institution specific,ny,ny,42.88,-73.69
+Saratoga,36091,Capital,12118,Saratoga County SD,36091NY0028240003,NY0028240,NY091028240H,upstream,Riverside,Upstream Unknown,43.4,2102,not institution specific,ny,ny,42.88,-73.69
+Saratoga,36091,Capital,12118,Saratoga County SD,36091NY0028240002,NY0028240,NY091028240I,upstream,Halfmoon,Upstream Unknown,43.4,15461,not institution specific,ny,ny,42.88,-73.69
+Saratoga,36091,Capital,12118,Saratoga County SD,36091NY0028240001,NY0028240,NY091028240A,wwtp,Saratoga Co SD No 1,Influent,43.4,152482,not institution specific,ny,ny,42.88,-73.69
+Saratoga,36091,Capital,12309,Riverview Landing STP,36091NY0131768SCWWB,NY0131768,NY091131768A,wwtp,Riverview Landing,Influent,0.02,88,not institution specific,ny,ny,42.83,-73.87
+Saratoga,36091,Capital,12822,Corinth WTF,36091NY0266167SCWWC,NY0266167,NY091266167A,wwtp,Village of Corinth,Influent,0.79,2513,not institution specific,ny,ny,43.25,-73.82
+Saratoga,36091,Capital,12835,Hadley STP,36091NY0020184SCWWD,NY0020184,NY091020184A,wwtp,Hadley,Influent,0.05,310,not institution specific,ny,ny,43.32,-73.85
+Saratoga,36091,Capital,12170,Stillwater STP,36091NY0093637SCWWE,NY0093637,NY091093637A,wwtp,Stillwater,Influent,0.55,2030,not institution specific,ny,ny,42.94,-73.65
+Saratoga,36091,Capital,12188,Waterford WWTP,36091NY0029173SCWWF,NY0029173,NY091029173A,wwtp,Waterford,Influent,1.5,8241,not institution specific,ny,ny,42.79,-73.68
+Saratoga,36091,Capital,12871,Schuylerville STP,36091NY0031941SCWWG,NY0031941,NY091031941A,wwtp,Schuylerville,Influent,0.26,2023,not institution specific,ny,ny,43.1,-73.58
+Oswego,36075,Central New York,13126,West Side WWTP Facility,36075NY0029106001,NY0029106,NY075029106A,wwtp,Oswego W,Influent,4,14199,not institution specific,ny,ny,43.46,-76.53
+Oswego,36075,Central New York,13126,Oswego C East Side STP,36075NY0029114002,NY0029114,NY075029114A,wwtp,Oswego E,Influent,5.35,8849,not institution specific,ny,ny,43.47,-76.5
+Oswego,36075,Central New York,13114,Mexico - V STP,36075NY0036617OCWWC,NY0036617,NY075036617A,wwtp,Village of Mexico,Influent,0.3,1306,not institution specific,ny,ny,43.47,-76.24
+Oswego,36075,Central New York,13142,Pulaski - V STP,36075NY0020257OCWWD,NY0020257,NY075020257A,wwtp,Village of Pulaski,Influent,0.65,1834,not institution specific,ny,ny,43.57,-76.14
+Oswego,36075,Central New York,13135,Phoenix - V STP,36075NY0020664OCWWE,NY0020664,NY075020664A,wwtp,Village of Phoenix,Influent,0.6,2640,not institution specific,ny,ny,43.23,-76.31
+Oswego,36075,Central New York,13069,Fulton City STP,36075NY0026301OCWWF,NY0026301,NY075026301A,wwtp,City of Fulton,Influent,3.4,12117,not institution specific,ny,ny,43.34,-76.42
+Oswego,36075,Central New York,13036,Central Square - V STP,36075NY0035131OCWWG,NY0035131,NY075035131A,wwtp,Village of Central Square,Influent,0.45,2352,not institution specific,ny,ny,43.28,-76.14
+Oswego,36075,Central New York,13042,Cleveland - V STP,36075NY0214370OCWWH,NY0214370,NY075214370A,wwtp,Village of Cleveland,Influent,0.15,696,not institution specific,ny,ny,43.24,-75.88
+Oswego,36075,Central New York,13126,Minetto - T WPCP,36075NY0036749OCWWI,NY0036749,NY075036749A,wwtp,Town of Minetto,Influent,0.2,723,not institution specific,ny,ny,43.4,-76.48
+Oswego,36075,Central New York,13126,Sleepy Hollow STP,36075NY0029238OCWWJ,NY0029238,NY075029238A,wwtp,Sleepy Hollow,Influent,0.01,432,not institution specific,ny,ny,43.43,-76.58
+Oswego,36075,Central New York,13131,Parish - V STP,36075NY0107654OCWWK,NY0107654,NY075107654A,wwtp,Village of Parish,Influent,0.14,386,not institution specific,ny,ny,43.42,-76.13
+Oswego,36075,Central New York,13036,Fort Brewerton SD WWTP,36075NY0245062OCWWL,NY0245062,NY075245062A,wwtp,Town of Hastings,Influent,0.12,1151,not institution specific,ny,ny,43.25,-76.15
+Madison,36053,Central New York,13035,Town Of Cazenovia SSDS,36053NY0028525001,NY0028525,NY053028525A,wwtp,Village of Cazenovia,Influent,0.95,3317,not institution specific,ny,ny,42.94,-75.84
+Madison,36053,Central New York,13408,Morrisville Village WWTP,36053NY0261742002,NY0261742,NY053261742A,wwtp,Village of Morrisville,Influent,0.18,1292,not institution specific,ny,ny,42.89,-75.65
+Madison,36053,Central New York,13346,Hamilton - V WPCP,36053NY0020672MCWWF,NY0020672,NY053020672A,wwtp,Village of Hamilton,Influent,0.85,3249,not institution specific,ny,ny,42.82,-75.55
+Madison,36053,Central New York,13037,Chittenango - V STP,36053NY0021539MCWWD,NY0021539,NY053021539A,wwtp,Village of Chittenango,Influent,1.3,4908,not institution specific,ny,ny,43.06,-75.88
+Madison,36053,Central New York,13032,Canastota - V WPCP,36053NY0029807MCWWE,NY0029807,NY053029807A,wwtp,Village of Canastota,Influent,1.73,4843,not institution specific,ny,ny,43.1,-75.76
+Madison,36053,Central New York,13421,Oneida - C STP,36053NY0026956MCWWC,NY0026956,NY053026956A,wwtp,Oneida City,Influent,3.75,9207,not institution specific,ny,ny,43.1,-75.65
+Warren,36113,Capital,12804,Glens Falls STP,36113NY0029050SGF,NY0029050,NY113029050C,upstream,South Glens Falls,Upstream Unknown,9.5,3572,not institution specific,ny,ny,43.31,-73.62
+Warren,36113,Capital,12804,Glens Falls STP,36113NY0029050001,NY0029050,NY113029050A,wwtp,Glens Falls,Influent,9.5,23462,not institution specific,ny,ny,43.31,-73.62
+Warren,36113,Capital,12804,Glens Falls STP,36113NY0029050MBPS,NY0029050,NY113029050B,upstream,Meadowbrook Pump Station,Upstream Pump Station,9.5,5603,not institution specific,ny,ny,43.31,-73.62
+Warren,36113,Capital,12845,Lake George STP,36113NY0094366WCWWB,NY0094366,NY113094366A,wwtp,Lake George,Influent,1.75,1440,not institution specific,ny,ny,43.41,-73.72
+Warren,36113,Capital,12885,Warrensburg SD No 1,36113NY0248720WCWWC,NY0248720,NY113248720A,wwtp,Warrensburg SD,Influent,0.25,1795,not institution specific,ny,ny,43.48,-73.8
+Warren,36113,Capital,12814,Town of Bolton WWTP,36113NY0093688WCWWD,NY0093688,NY113093688A,wwtp,Town of Botlon,Influent,0.3,244,not institution specific,ny,ny,43.55,-73.66
+Warren,36113,Capital,12836,Town of Hague SD No 1,36113NY0265217WCWWE,NY0265217,NY113265217A,wwtp,Town of Hague SD,Influent,0.09,155,not institution specific,ny,ny,43.75,-73.52
+Oneida,36065,Mohawk Valley,13323,Clinton STP,36065NY0021385001,NY0021385,NY065021385A,wwtp,Clinton WWTP,Influent,2.5,3990,not institution specific,ny,ny,43.06,-75.38
+Oneida,36065,Mohawk Valley,13308,East Oneida Lake WWTF,36065NY0036790OCWWB,NY0036790,NY065036790A,wwtp,Oneida Lake - South and East Shores,Influent,2,6076,not institution specific,ny,ny,43.21,-75.72
+Oneida,36065,Mohawk Valley,13440,Rome Municipal STP,36065NY0030864OCWWC,NY0030864,NY065030864A,wwtp,Rome,Influent,12,27849,not institution specific,ny,ny,43.2,-75.41
+Oneida,36065,Mohawk Valley,13502,Oneida Co WPCF,36065NY0025780OCWWD,NY0025780,NY065025780A,wwtp,Utica,Influent,48,112455,not institution specific,ny,ny,43.1,-75.19
+Oneida,36065,Mohawk Valley,13323,Clark Mills STP,36065NY0029076OCWWE,NY0029076,NY065029076A,wwtp,Clark Mills,Influent,0.5,1665,not institution specific,ny,ny,43.09,-75.38
+Oneida,36065,Mohawk Valley,13421,City of Sherrill STP,36065NY0022110OCWWF,NY0022110,NY065022110A,wwtp,City of Sherrill,Influent,0.95,3210,not institution specific,ny,ny,43.07,-75.62
+Oneida,36065,Mohawk Valley,13476,Vernon STP,36065NY0020249OCWWG,NY0020249,NY065020249A,wwtp,Vernon,Influent,0.81,1296,not institution specific,ny,ny,43.08,-75.55
+Oneida,36065,Mohawk Valley,13425,Oriskany Falls WWTP,36065NY0020923OCWWH,NY0020923,NY065020923A,wwtp,Village of Oriskany Falls,Influent,0.09,757,not institution specific,ny,ny,42.94,-75.46
+Oneida,36065,Mohawk Valley,13480,Waterville STP,36065NY0028461OCWWI,NY0028461,NY065028461A,wwtp,Village of Waterville,Influent,0.3,1655,not institution specific,ny,ny,42.94,-75.39
+Oneida,36065,Mohawk Valley,13438,Village of Remsen WWTF,36065NY0235776OCWWJ,NY0235776,NY065235776A,wwtp,Village of Remsen,Influent,0.05,446,not institution specific,ny,ny,43.32,-75.18
+Oneida,36065,Mohawk Valley,13338,Forestport STP,36065NY0236756OCWWK,NY0236756,NY065236756A,wwtp,Forestport,Influent,0.02,72,not institution specific,ny,ny,43.44,-75.21
+Oneida,36065,Mohawk Valley,13309,Boonville WWTP,36065NY0020494OCWWL,NY0020494,NY065020494A,wwtp,Boonville,Influent,1.1,2035,not institution specific,ny,ny,43.49,-75.33
+Oneida,36065,Mohawk Valley,13316,Camden WWTP,36065NY0021377OCWWM,NY0021377,NY065021377A,wwtp,Camden,Influent,0.8,2746,not institution specific,ny,ny,43.33,-75.74
+Oneida,36065,Mohawk Valley,13471,Taberg SD WWTP,36065NY0257001OCWWN,NY0257001,NY065257001A,wwtp,Taberg SD,Influent,0.02,176,not institution specific,ny,ny,43.3,-75.61
+Oneida,36065,Mohawk Valley,13502,Oneida Co WPCF,36065NY0025780D018,NY0025780,NY065025780B,wwtp,Utica - Suburbs,Influent,48,33358,not institution specific,ny,ny,43.1,-75.19
+Oneida,36065,Mohawk Valley,13502,Oneida Co WPCF,36065NY0025780D019,NY0025780,NY065025780C,wwtp,Utica - City,Influent,48,55215,not institution specific,ny,ny,43.1,-75.19
+Otsego,36077,Mohawk Valley,13820,Oneonta WWTP,36077NY0031151001,NY0031151,NY077031151A,wwtp,City of Oneonta,Influent,4,19383,not institution specific,ny,ny,42.44,-75.1
+Otsego,36077,Mohawk Valley,13439,Richfield Springs WWTP,36077NY0031411OCWWB,NY0031411,NY077031411A,wwtp,Richfield Springs,Influent,0.6,991,not institution specific,ny,ny,42.85,-74.99
+Otsego,36077,Mohawk Valley,13326,Cooperstown WWTP,36077NY0023591OCWWC,NY0023591,NY077023591A,wwtp,Cooperstown,Influent,0.75,1924,not institution specific,ny,ny,42.69,-74.93
+Orange,36071,Mid-Hudson,12550,Newburgh WWTP,36071NY0026310NE01,NY0026310,NY071026310A,wwtp,Newburgh Influent,Influent,9,36227,not institution specific,ny,ny,41.49,-74.01
+Orange,36071,Mid-Hudson,12550,Newburgh WWTP,36071NY0026310NE02,NY0026310,NY071026310B,upstream,City of Newburgh,Upstream Unknown,9,20515,not institution specific,ny,ny,41.49,-74.01
+Orange,36071,Mid-Hudson,12550,Newburgh WWTP,36071NY0026310NE03,NY0026310,NY071026310C,upstream,Town of Newburgh,Upstream Unknown,9,11520,not institution specific,ny,ny,41.49,-74.01
+Orange,36071,Mid-Hudson,10924,Goshen - V WWTF,36071NY0031518ORWW6,NY0031518,NY071031518A,wwtp,Village of Goshen,Influent,2,6369,not institution specific,ny,ny,41.4,-74.34
+Orange,36071,Mid-Hudson,10926,OCSD No 1 - Harriman WWTP,36071NY0027901ORWW5,NY0027901,NY071027901A,wwtp,Harriman,Influent,6,42921,not institution specific,ny,ny,41.31,-74.14
+Orange,36071,Mid-Hudson,10940,Middletown STP,36071NY0026328ORWW4,NY0026328,NY071026328A,wwtp,City of Middletown,Influent,8.5,27434,not institution specific,ny,ny,41.43,-74.42
+Orange,36071,Mid-Hudson,10990,Warwick STP,36071NY0023680ORWW3,NY0023680,NY071023680A,wwtp,Village of Warwick,Influent,1,6729,not institution specific,ny,ny,41.25,-74.37
+Orange,36071,Mid-Hudson,12771,Port Jervis STP,36071NY0026522ORWW2,NY0026522,NY071026522A,wwtp,Port Jervis WRRF,Influent,2.5,8568,not institution specific,ny,ny,41.36,-74.68
+Orange,36071,Mid-Hudson,12566,Crawford Pine Bush STP,36071NY0110019ORWWH,NY0110019,NY071110019A,wwtp,Pine Bush,Influent,0.3,1108,not institution specific,ny,ny,41.62,-74.3
+Orange,36071,Mid-Hudson,10940,Wawayanda Robinn Meadows SD,36071NY0029149ORWWI,NY0029149,NY071029149A,wwtp,Wawayanda Robinn Meadows SD,Influent,0.08,263,not institution specific,ny,ny,41.42,-74.49
+Orange,36071,Mid-Hudson,10973,Wawayanda Ridgebury Lake Acres SD,36071NY0062278ORWWJ,NY0062278,NY071062278A,wwtp,Ridgebury Lake Acres SD,Influent,0.03,129,not institution specific,ny,ny,41.38,-74.45
+Orange,36071,Mid-Hudson,10941,Windsor Estates WWTP,36071NY0215198ORWWK,NY0215198,NY071215198A,wwtp,Windsor Estates,Influent,0.02,105,not institution specific,ny,ny,41.45,-74.32
+Orange,36071,Mid-Hudson,10940,Wallkill STP,36071NY0024422L001,NY0024422,NY071024422B,upstream,Town of Wallkill - W,Upstream Unknown,4,28914,not institution specific,ny,ny,41.44,-74.37
+Orange,36071,Mid-Hudson,10940,Wallkill STP,36071NY0024422L002,NY0024422,NY071024422C,upstream,Town of Wallkill - E,Upstream Unknown,4,8715,not institution specific,ny,ny,41.44,-74.37
+Orange,36071,Mid-Hudson,10992,Blooming Grove Tappan Homes SD,36071NY0062251ORWWM,NY0062251,NY071062251A,wwtp,Tappan Homes SD,Influent,0.07,211,not institution specific,ny,ny,41.4,-74.19
+Orange,36071,Mid-Hudson,10921,Florida - V STP,36071NY0020273ORWWN,NY0020273,NY071020273A,wwtp,Village of Florida,Influent,0.45,2742,not institution specific,ny,ny,41.34,-74.36
+Orange,36071,Mid-Hudson,12549,Village of Montgomery STP,36071NY0026433ORWWP,NY0026433,NY071026433A,wwtp,Village of Montgomery,Influent,0.5,4776,not institution specific,ny,ny,41.53,-74.25
+Orange,36071,Mid-Hudson,12543,Maybrook WWTP,36071NY0023272ORWWQ,NY0023272,NY071023272A,wwtp,Village of Maybrook,Influent,0.4,2800,not institution specific,ny,ny,41.5,-74.21
+Orange,36071,Mid-Hudson,12577,Glenwood Hills SD 5,36071NY0215457ORWWR,NY0215457,NY071215457A,wwtp,Glenwood Hills,Influent,0.01,285,not institution specific,ny,ny,41.4,-74.14
+Orange,36071,Mid-Hudson,12550,Newburgh Nob Hill SD,36071NY0145599ORWWS,NY0145599,NY071145599A,wwtp,Nob Hill,Influent,0.01,305,not institution specific,ny,ny,41.55,-74.03
+Orange,36071,Mid-Hudson,12520,Cornwall WWTP,36071NY0022144ORWWT,NY0022144,NY071022144A,wwtp,Village of Cornwall,Influent,1.5,5672,not institution specific,ny,ny,41.45,-74.02
+Orange,36071,Mid-Hudson,12553,Firthcliff SD STP,36071NY0022152ORWWU,NY0022152,NY071022152A,wwtp,Firthcliff Heights,Influent,0.12,1585,not institution specific,ny,ny,41.45,-74.05
+Orange,36071,Mid-Hudson,12553,New Windsor STP,36071NY0022446ORWWV,NY0022446,NY071022446A,wwtp,Town of New Windsor,Influent,5,20813,not institution specific,ny,ny,41.46,-74.03
+Orange,36071,Mid-Hudson,10992,Washingtonville - V WWTF,36071NY0023671ORWWX,NY0023671,NY071023671A,wwtp,Washingtonville,Influent,0.7,5359,not institution specific,ny,ny,41.43,-74.14
+Orange,36071,Mid-Hudson,10930,Woodbury Valley Forge SD 1 STP,36071NY0020478ORWWY,NY0020478,NY071020478A,wwtp,Village of Woodbury,Influent,0.06,7685,not institution specific,ny,ny,41.36,-74.1
+Orange,36071,Mid-Hudson,10928,Highland Falls WWTP,36071NY0022586ORWWZ,NY0022586,NY071022586A,wwtp,Highland Falls,Influent,1.35,3695,not institution specific,ny,ny,41.35,-73.97
+Orange,36071,Mid-Hudson,10922,Highlands Sewer Improvement Area,36071NY0149411ORWW7,NY0149411,NY071149411A,wwtp,Highlands SD,Influent,0.12,662,not institution specific,ny,ny,41.33,-73.99
+Orange,36071,Mid-Hudson,10996,West Point WWTP,36071NY0274666ORWW8,NY0274666,NY071274666A,wwtp,West Point,Influent,0,16520,not institution specific,ny,ny,41.35,-74.05
+Orange,36071,Mid-Hudson,10987,Tuxedo Park STP,36071NY0031216ORWW9,NY0031216,NY071031216A,wwtp,Tuxedo Park,Influent,0.4,769,not institution specific,ny,ny,41.22,-74.19
+Orange,36071,Mid-Hudson,10987,Hamlet STP,36071NY0031224ORWW10,NY0031224,NY071031224A,wwtp,Tuxedo Hamlet,Influent,0.1,262,not institution specific,ny,ny,41.19,-74.18
+Orange,36071,Mid-Hudson,12586,Village of Walden STP,36071NY0030490ORWW11,NY0030490,NY071030490A,wwtp,Village of Walden,Influent,1.2,6563,not institution specific,ny,ny,41.57,-74.19
+Orange,36071,Mid-Hudson,12549,Montgomery - T STP SD No 1,36071NY0247782ORWW12,NY0247782,NY071247782A,wwtp,Town of Montgomery SD 1,Influent,0.15,326,not institution specific,ny,ny,41.5,-74.25
+Orange,36071,Mid-Hudson,10940,Hidden Valley Estates - SD No 1 STP,36071NY0034436ORWW13,NY0034436,NY071034436A,wwtp,Hidden Valley Estates,Influent,0.06,168,not institution specific,ny,ny,41.44,-74.56
+Orange,36071,Mid-Hudson,10990,Warwick SD 1 STP,36071NY0021890ORWW14,NY0021890,NY071021890A,wwtp,Warwick SD 1,Influent,0.43,2189,not institution specific,ny,ny,41.27,-74.3
+Orange,36071,Mid-Hudson,10940,Wallkill STP,36071NY0024422ORWWL,NY0024422,NY071024422A,wwtp,Town of Wallkill,Influent,4,28914,not institution specific,ny,ny,41.44,-74.37
+Albany,36001,Capital,12202,Albany WPD-South Plant,36001NY0026867AL09,NY0026867,NY001026867B,upstream,Quackenbush,Upstream Unknown,29,3313,not institution specific,ny,ny,42.63,-73.76
+Albany,36001,Capital,12202,Albany WPD-South Plant,36001NY0026867AL10,NY0026867,NY001026867C,upstream,Jackson,Upstream Unknown,29,2643,not institution specific,ny,ny,42.63,-73.76
+Albany,36001,Capital,12202,Albany WPD-South Plant,36001NY0026867AL06,NY0026867,NY001026867D,upstream,Bouck,Upstream Unknown,29,5371,not institution specific,ny,ny,42.63,-73.76
+Albany,36001,Capital,12202,Albany WPD-South Plant,36001NY0026867AL04,NY0026867,NY001026867E,upstream,Washington,Upstream Unknown,29,13297,not institution specific,ny,ny,42.63,-73.76
+Albany,36001,Capital,12202,Albany WPD-South Plant,36001NY0026867AL03,NY0026867,NY001026867F,upstream,Western,Upstream Unknown,29,16445,not institution specific,ny,ny,42.63,-73.76
+Albany,36001,Capital,12204,Albany WPD-North Plant,36001NY0026875AL01,NY0026875,NY001026875B,upstream,SUNY Albany/ Harriman Campus,Upstream Unknown,35,927,not institution specific,ny,ny,42.68,-73.73
+Albany,36001,Capital,12202,Albany WPD-South Plant,36001NY0026867AL08,NY0026867,NY001026867G,upstream,Orange,Upstream Unknown,29,2198,not institution specific,ny,ny,42.63,-73.76
+Albany,36001,Capital,12202,Albany WPD-South Plant,36001NY0026867AL07,NY0026867,NY001026867H,upstream,State,Upstream Unknown,29,2155,not institution specific,ny,ny,42.63,-73.76
+Albany,36001,Capital,12202,Albany WPD-South Plant,36001NY0026867AL02,NY0026867,NY001026867I,upstream,Woodville,Upstream Unknown,29,4330,not institution specific,ny,ny,42.63,-73.76
+Albany,36001,Capital,12202,Albany WPD-South Plant,36001NY0026867AL05,NY0026867,NY001026867J,upstream,Hackett Blvd,Upstream Unknown,29,14575,not institution specific,ny,ny,42.63,-73.76
+Albany,36001,Capital,12023,Berne WWTP,36001NY0268976ACWWB,NY0268976,NY001268976A,wwtp,Berne,Influent,0.03,42,not institution specific,ny,ny,42.63,-74.15
+Albany,36001,Capital,12147,Rensselaerville STP,36001NY0240770ACWWC,NY0240770,NY001240770A,wwtp,Hamlet of Rensselaerville,Influent,0.02,26,not institution specific,ny,ny,42.51,-74.13
+Albany,36001,Capital,12009,Altamont - V STP,36001NY0031534ACWWD,NY0031534,NY001031534A,wwtp,Village of Altamont,Influent,0.42,1809,not institution specific,ny,ny,42.71,-74.02
+Albany,36001,Capital,12009,Park Guilderland - Northeast Industrial Park,36001NY0022217ACWWE,NY0022217,NY001022217A,wwtp,Park Guilderland,Influent,0.36,783,not institution specific,ny,ny,42.7,-73.96
+Albany,36001,Capital,12084,Guilderland - T STP,36001NY0022225ACWWF,NY0022225,NY001022225A,wwtp,Town of Guilderland,Influent,3.6,21281,not institution specific,ny,ny,42.69,-73.91
+Albany,36001,Capital,12186,Voorheesville - V SD STP,36001NY0030139ACWWG,NY0030139,NY001030139A,wwtp,Voorheesville,Influent,0.11,1220,not institution specific,ny,ny,42.65,-73.93
+Albany,36001,Capital,12186,Pleasant St SD No 2,36001NY0107051ACWWH,NY0107051,NY001107051A,wwtp,Pleasant Street,Influent,0,21,not institution specific,ny,ny,42.65,-73.92
+Albany,36001,Capital,12045,Coeymans-Ravena WPCF,36001NY0022772ACWWI,NY0022772,NY001022772A,wwtp,Village of Ravena,Influent,0.82,3930,not institution specific,ny,ny,42.47,-73.79
+Albany,36001,Capital,12158,South Albany SD,36001NY0191825ACWWJ,NY0191825,NY001191825A,wwtp,South Albany,Influent,0.01,4,not institution specific,ny,ny,42.55,-73.85
+Albany,36001,Capital,12158,Town of Bethlehem - Cedar Hill WPCP,36001NY0025739ACWWK,NY0025739,NY001025739A,wwtp,Town of Bethlehem,Influent,6,31023,not institution specific,ny,ny,42.54,-73.76
+Albany,36001,Capital,12204,Albany County WPD - North Plant,36001NY0026875ACWWL,NY0026875,NY001026875A,wwtp,Albany County WPD - North Plant,Influent,35,109426,not institution specific,ny,ny,42.68,-73.73
+Albany,36001,Capital,12204,Albany County WPD - North Plant,36001NY0026875L001,NY0026875,NY001026875C,upstream,North Plant - City of Albany,Upstream Unknown,35,18528,not institution specific,ny,ny,42.68,-73.73
+Albany,36001,Capital,12204,Albany County WPD - North Plant,36001NY0026875L002,NY0026875,NY001026875D,upstream,Village of Menands,Upstream Unknown,35,4061,not institution specific,ny,ny,42.68,-73.73
+Albany,36001,Capital,12204,Albany County WPD - North Plant,36001NY0026875L003,NY0026875,NY001026875E,upstream,Village of Green Island,Upstream Unknown,35,2583,not institution specific,ny,ny,42.68,-73.73
+Albany,36001,Capital,12204,Albany County WPD - North Plant,36001NY0026875L004,NY0026875,NY001026875F,upstream,City of Watervliet,Upstream Unknown,35,10046,not institution specific,ny,ny,42.68,-73.73
+Albany,36001,Capital,12204,Albany County WPD - North Plant,36001NY0026875L005,NY0026875,NY001026875G,upstream,City of Cohoes,Upstream Unknown,35,16706,not institution specific,ny,ny,42.68,-73.73
+Albany,36001,Capital,12204,Albany County WPD - North Plant,36001NY0026875L006,NY0026875,NY001026875H,upstream,Village of Colonie,Upstream Unknown,35,7761,not institution specific,ny,ny,42.68,-73.73
+Albany,36001,Capital,12110,Mohawk View WPCP,36001NY0027758ACWWM,NY0027758,NY001027758A,wwtp,Town of Colonie,Influent,6,27509,not institution specific,ny,ny,42.78,-73.77
+Albany,36001,Capital,12202,Albany WPD-South Plant,36001NY0026867AL11,NY0026867,NY001026867A,wwtp,South Plant - City of Albany,Influent,29,80922,not institution specific,ny,ny,42.63,-73.76
+Erie,36029,Western New York,14213,Bird Island STP,36029NY0028410BU02,NY0028410,NY029028410B,upstream,Jersey St and 4th St,Upstream Unknown,180,36360,not institution specific,ny,ny,42.92,-78.9
+Erie,36029,Western New York,14213,Bird Island STP,36029NY0028410BU04,NY0028410,NY029028410C,upstream,Bird Ave,Upstream Unknown,180,21804,not institution specific,ny,ny,42.92,-78.9
+Erie,36029,Western New York,14213,Bird Island STP,36029NY0028410BU03,NY0028410,NY029028410D,upstream,Niagara St and Albany St,Upstream Unknown,180,8920,not institution specific,ny,ny,42.92,-78.9
+Erie,36029,Western New York,14213,Bird Island STP,36029NY0028410BU01,NY0028410,NY029028410E,upstream,Bailey Ave,Upstream Unknown,180,74629,not institution specific,ny,ny,42.92,-78.9
+Erie,36029,Western New York,14213,Bird Island STP,36029NY0028410BU07,NY0028410,NY029028410F,upstream,Ontario St,Upstream Unknown,180,9371,not institution specific,ny,ny,42.92,-78.9
+Erie,36029,Western New York,14213,Bird Island STP,36029NY0028410BU06,NY0028410,NY029028410G,upstream,Arthur St,Upstream Unknown,180,60441,not institution specific,ny,ny,42.92,-78.9
+Erie,36029,Western New York,14213,Bird Island STP,36029NY0028410BU10,NY0028410,NY029028410H,upstream,Hagen St,Upstream Unknown,180,4387,not institution specific,ny,ny,42.92,-78.9
+Erie,36029,Western New York,14213,Bird Island STP,36029NY0028410BU09,NY0028410,NY029028410I,upstream,Texas St,Upstream Unknown,180,7078,not institution specific,ny,ny,42.92,-78.9
+Erie,36029,Western New York,14213,Bird Island STP,36029NY0028410BU05,NY0028410,NY029028410J,upstream,Fernwood Ave,Upstream Unknown,180,23297,not institution specific,ny,ny,42.92,-78.9
+Erie,36029,Western New York,14213,Bird Island STP,36029NY0028410BU08,NY0028410,NY029028410K,upstream,Bailey Ave and Navel Ave,Upstream Unknown,180,15608,not institution specific,ny,ny,42.92,-78.9
+Erie,36029,Western New York,14213,Bird Island STP,36029NY0028410BU11,NY0028410,NY029028410A,wwtp,Bird Island Influent,Influent,180,431141,not institution specific,ny,ny,42.92,-78.9
+Erie,36029,Western New York,14006,ECSD 2 - Big Sister Creek WRRF,36029NY0022543E026,NY0022543,NY029022543A,wwtp,Big Sister Creek WRRF,Influent,4.5,24461,not institution specific,ny,ny,42.66,-79.06
+Erie,36029,Western New York,14218,ECSD No 6 Lackawanna WRRF,36029NY0022136E025,NY0022136,NY029022136A,wwtp,Lackawanna WRRF,Influent,4.5,17983,not institution specific,ny,ny,42.82,-78.84
+Erie,36029,Western New York,14219,Southtowns WRRF,36029NY0095401E024,NY0095401,NY029095401A,wwtp,Southtowns,Influent,16,83961,not institution specific,ny,ny,42.79,-78.85
+Erie,36029,Western New York,14228,Amherst WWTF,36029NY0025950E023,NY0025950,NY029025950A,wwtp,University At Buffalo,Influent,36,26309,not institution specific,ny,ny,43.05,-78.81
+Erie,36029,Western New York,14150,Tonawanda WWTF,36029NY0026395E022,NY0026395,NY029026395B,wwtp,Kenmore and Tonawanda,Upstream Pump Station,30,71131,not institution specific,ny,ny,42.99,-78.9
+Erie,36029,Western New York,14150,Tonawanda WWTF,36029NY0026395E021,NY0026395,NY029026395C,wwtp,City of Tonawanda,Upstream Pump Station,30,14742,not institution specific,ny,ny,42.99,-78.9
+Erie,36029,Western New York,14228,Amherst WWTF,36029NY0025950E020,NY0025950,NY029025950B,wwtp,Amherst WPCF,Influent,36,142478,not institution specific,ny,ny,43.05,-78.81
+Erie,36029,Western New York,14004,Alden SD No 2 STP,36029NY0021857ECWWM,NY0021857,NY029021857A,wwtp,Town of Alden Fairview Dr and E and W Alaura Dr,Influent,0.02,89,not institution specific,ny,ny,42.89,-78.57
+Erie,36029,Western New York,14004,Alden STP,36029NY0020541ECWWN,NY0020541,NY029020541A,wwtp,Village of Alden,Influent,0.65,2629,not institution specific,ny,ny,42.91,-78.51
+Erie,36029,Western New York,14069,Craneridge SD No 1,36029NY0036714ECWWO,NY0036714,NY029036714A,wwtp,Springville,Influent,0.07,326,not institution specific,ny,ny,42.6,-78.65
+Erie,36029,Western New York,14052,East Aurora WRRF,36029NY0028436ECWWP,NY0028436,NY029028436A,wwtp,Village of East Aurora,Influent,3.14,6908,not institution specific,ny,ny,42.76,-78.63
+Erie,36029,Western New York,14031,ECSD No 5 Clarence Research Park,36029NY0167169ECWWQ,NY0167169,NY029167169A,wwtp,Clarence Research Park,Influent,0.02,620,not institution specific,ny,ny,42.97,-78.62
+Erie,36029,Western New York,14080,ECSD No 3 - Holland WRRF,36029NY0108103ECWWR,NY0108103,NY029108103A,wwtp,Holland,Influent,0.18,767,not institution specific,ny,ny,42.65,-78.55
+Erie,36029,Western New York,14059,Elma SD No 5 - Elma Meadows Subdivision,36029NY0033995ECWWS,NY0033995,NY029033995A,wwtp,Elma Meadows,Influent,0.08,286,not institution specific,ny,ny,42.83,-78.6
+Erie,36029,Western New York,14059,Elma SD No 4 Briggswood,36029NY0032051ECWWT,NY0032051,NY029032051A,wwtp,Town of Elma - Briggswood,Influent,0.02,137,not institution specific,ny,ny,42.85,-78.65
+Erie,36029,Western New York,14059,Elma SD No 1 Jerge Subdivision,36029NY0023019ECWWU,NY0023019,NY029023019A,wwtp,Town of Elma - Treehaven Ln,Influent,0.01,34,not institution specific,ny,ny,42.85,-78.62
+Erie,36029,Western New York,14059,Town of Elma SD No 7 - Pond Brook Townhomes,36029NY0203360ECWWV,NY0203360,NY029203360A,wwtp,Town of Elma - Pond Brook,Influent,0.02,62,not institution specific,ny,ny,42.84,-78.63
+Erie,36029,Western New York,14072,Grand Island SD 2,36029NY0027693ECWWW,NY0027693,NY029027693A,wwtp,Grand Island,Influent,3.5,20890,not institution specific,ny,ny,43.06,-78.97
+Erie,36029,Western New York,14069,Kissing Bridge SD No 2,36029NY0243493ECWWX,NY0243493,NY029243493A,wwtp,Kissing Bridge Ski Area,Influent,0.02,36,not institution specific,ny,ny,42.6,-78.65
+Erie,36029,Western New York,14141,Springville WWTP,36029NY0021474ECWWY,NY0021474,NY029021474A,wwtp,Village of Springville,Influent,1.15,4371,not institution specific,ny,ny,42.5,-78.67
+Erie,36029,Western New York,14150,Tonawanda WWTF,36029NY0026395ECWWZ,NY0026395,NY029026395A,wwtp,Town of Tonawanda,Influent,30,85876,not institution specific,ny,ny,42.99,-78.9
+Erie,36029,Western New York,14001,Village of Akron WWTP,36029NY0031003ECWWL,NY0031003,NY029031003A,wwtp,Village of Akron,Influent,0.82,2647,not institution specific,ny,ny,43.03,-78.51
+Erie,36029,Western New York,14070,Village of Gowanda WWTF,36029NY0032093ECWWK,NY0032093,NY029032093A,wwtp,Village of Gowanda,Influent,2.2,2854,not institution specific,ny,ny,42.47,-78.94
+Erie,36029,Western New York,14059,Springbrook Shores WWTP,36029NY0269328ECWWH,NY0269328,NY029269328A,wwtp,Springbrook Shores,Influent,0.03,72,not institution specific,ny,ny,42.83,-78.66
+Jefferson,36045,North Country,13601,Watertown WPCF,36045NY0025984WWPCA,NY0025984,NY045025984A,wwtp,Watertown City,Influent,15.9,26270,not institution specific,ny,ny,43.99,-75.93
+Jefferson,36045,North Country,13601,Watertown WPCF,36045NY0025984WWPCB,NY0025984,NY045025984B,wwtp,Fort Drum and Towns of Rutland and Le Ray,Influent,15.9,23485,not institution specific,ny,ny,43.99,-75.93
+Jefferson,36045,North Country,13601,Watertown SD No 1,36045NY0099091JCWWV,NY0099091,NY045099091A,wwtp,Watertown SD 1,Influent,0.06,588,not institution specific,ny,ny,43.96,-75.94
+Jefferson,36045,North Country,13605,Village of Adams WWTF,36045NY0034771JCWWD,NY0034771,NY045034771A,wwtp,Village of Adams,Influent,0.45,2425,not institution specific,ny,ny,43.81,-76.03
+Jefferson,36045,North Country,13685,Sackets Harbor STP,36045NY0027014JCWWE,NY0027014,NY045027014A,wwtp,Village of Sackets Harbor,Influent,0.6,1598,not institution specific,ny,ny,43.95,-76.13
+Jefferson,36045,North Country,13634,Dexter - V STP,36045NY0031461JCWWF,NY0031461,NY045031461A,wwtp,Village of Dexter,Influent,0.1,1071,not institution specific,ny,ny,44.01,-76.05
+Jefferson,36045,North Country,13622,Chaumont WWTP,36045NY0257851JCWWG,NY0257851,NY045257851A,wwtp,Village of Chaumont,Influent,0.1,597,not institution specific,ny,ny,44.07,-76.13
+Jefferson,36045,North Country,13622,Clayton/Depauville SD,36045NY0215791JCWWH,NY0215791,NY045215791A,wwtp,Clayton/Depauville SD,Influent,0.04,90,not institution specific,ny,ny,44.14,-76.07
+Jefferson,36045,North Country,13618,Cape Vincent STP,36045NY0021393JCWWI,NY0021393,NY045021393A,wwtp,Village of Cape Vincent,Influent,0.14,669,not institution specific,ny,ny,44.13,-76.32
+Jefferson,36045,North Country,13624,Clayton STP,36045NY0027545JCWWJ,NY0027545,NY045027545A,wwtp,Village of Clayton,Influent,1.1,2479,not institution specific,ny,ny,44.24,-76.08
+Jefferson,36045,North Country,13656,La Fargeville WWTF,36045NY0121070JCWWK,NY0121070,NY045121070A,wwtp,Hamlet of La Fargeville,Influent,0.06,323,not institution specific,ny,ny,44.19,-75.96
+Jefferson,36045,North Country,13692,Orleans Thousand Island Park STP,36045NY0030686JCWWL,NY0030686,NY045030686A,wwtp,Thousand Island Park,Influent,0.19,81,not institution specific,ny,ny,44.29,-76.03
+Jefferson,36045,North Country,13607,Orleans/Alexandria Joint WWTP,36045NY0258059JCWWM,NY0258059,NY045258059A,wwtp,Orleans/Alexandria,Influent,0.2,136,not institution specific,ny,ny,44.3,-75.97
+Jefferson,36045,North Country,13607,Alexandria Bay WWTP,36045NY0022501JCWWN,NY0022501,NY045022501A,wwtp,Alexandria Bay,Influent,0.75,1012,not institution specific,ny,ny,44.34,-75.91
+Jefferson,36045,North Country,13679,Redwood SD,36045NY0215911JCWWO,NY0215911,NY045215911A,wwtp,Redwood SD,Influent,0.04,300,not institution specific,ny,ny,44.29,-75.8
+Jefferson,36045,North Country,13691,Village of Theresa WWTF,36045NY0207004JCWWP,NY0207004,NY045207004A,wwtp,Village of Theresa,Influent,0.07,905,not institution specific,ny,ny,44.22,-75.8
+Jefferson,36045,North Country,13673,Philadelphia WWTP,36045NY0033022JCWWQ,NY0033022,NY045033022A,wwtp,Village of Philadelphia,Influent,0.2,1091,not institution specific,ny,ny,44.16,-75.71
+Jefferson,36045,North Country,13637,Evans Mills WWTF,36045NY0024660JCWWR,NY0024660,NY045024660A,wwtp,Village of Evans Mills,Influent,0.1,695,not institution specific,ny,ny,44.09,-75.81
+Jefferson,36045,North Country,13608,Village of Antwerp WWTP,36045NY0235890JCWWS,NY0235890,NY045235890A,wwtp,Village of Antwerp,Influent,0.12,592,not institution specific,ny,ny,44.2,-75.61
+Jefferson,36045,North Country,13619,Defreit STP,36045NY0020931JCWWT,NY0020931,NY045020931A,wwtp,Village of Defreit,Influent,0.04,359,not institution specific,ny,ny,44.04,-75.68
+Jefferson,36045,North Country,13619,Herrings STP,36045NY0236306JCWWU,NY0236306,NY045236306A,wwtp,Herrings,Influent,0.01,94,not institution specific,ny,ny,44.02,-75.66
+Jefferson,36045,North Country,13619,West Carthage WPCF,36045NY0025151JCWWC,NY0025151,NY045025151A,wwtp,Village of West Carthage,Influent,4,4077,not institution specific,ny,ny,43.98,-75.63
+Jefferson,36045,North Country,13601,Brownville STP,36045NY0031232JCWWW,NY0031232,NY045031232A,wwtp,Village of Brownville,Influent,0.65,1245,not institution specific,ny,ny,44,-75.98
+Chemung,36015,Southern Tier,14904,Chemung County Elmira SD,36015NY0035742CCWWA,NY0035742,NY015035742A,wwtp,Elmira City - South,Influent,12,38037,not institution specific,ny,ny,42.07,-76.78
+Chemung,36015,Southern Tier,14903,Chemung County SD No 1 STP,36015NY0036986CCWWB,NY0036986,NY015036986A,wwtp,Elmira City - North,Influent,12.2,18085,not institution specific,ny,ny,42.12,-76.81
+Genesee,36037,Finger Lakes,14416,Village of Bergen STP,36037NY0110434GCWWA,NY0110434,NY037110434A,wwtp,Village of Bergen,Influent,0.21,1216,not institution specific,ny,ny,43.09,-77.93
+Genesee,36037,Finger Lakes,14422,Byron SD STP,36037NY0160971GCWWB,NY0160971,NY037160971A,wwtp,Town of Byron SD,Influent,0.08,372,not institution specific,ny,ny,43.08,-78.07
+Genesee,36037,Finger Lakes,14482,Leroy - V WWTP,36037NY0030546GCWWC,NY0030546,NY037030546A,wwtp,Village of Leroy,Influent,1,4191,not institution specific,ny,ny,42.99,-77.99
+Genesee,36037,Finger Lakes,14525,Pavilion - Hamlet SSDS,36037NY0247197GCWWD,NY0247197,NY037247197A,wwtp,Hamlet of Pavilion,Influent,0.08,262,not institution specific,ny,ny,42.88,-78.03
+Genesee,36037,Finger Lakes,14005,Alexander - V STP,36037NY0110523GCWWE,NY0110523,NY037110523A,wwtp,Village of Alexander,Influent,0.06,557,not institution specific,ny,ny,42.9,-78.25
+Genesee,36037,Finger Lakes,14011,Attica WWTP,36037NY0021849GCWWF,NY0021849,NY037021849A,wwtp,Village of Attica,Influent,1.4,4740,not institution specific,ny,ny,42.87,-78.28
+Genesee,36037,Finger Lakes,14040,Darien WWTF,36037NY0228346GCWWG,NY0228346,NY037228346A,wwtp,Darien Center,Influent,0.06,203,not institution specific,ny,ny,42.9,-78.38
+Genesee,36037,Finger Lakes,14036,Corfu - V STP,36037NY0108430GCWWH,NY0108430,NY037108430A,wwtp,Village of Corfu,Influent,0.14,719,not institution specific,ny,ny,42.96,-78.41
+Genesee,36037,Finger Lakes,14020,Batavia - C STP,36037NY0026514GCWWI,NY0026514,NY037026514A,wwtp,City of Batavia,Influent,5.5,16459,not institution specific,ny,ny,42.99,-78.2
+Genesee,36037,Finger Lakes,14125,Oakfield - V STP,36037NY0023639GCWWJ,NY0023639,NY037023639A,wwtp,Village of Oakfield,Influent,0.5,1727,not institution specific,ny,ny,43.07,-78.27
+Genesee,36037,Finger Lakes,14058,Elba - V STP,36037NY0020907GCWWK,NY0020907,NY037020907A,wwtp,Village of Elba,Influent,0.08,583,not institution specific,ny,ny,43.09,-78.19
+Lewis,36049,North Country,13626,Copenhagen - V WWPD,36049NY0257711LCWWA,NY0257711,NY049257711A,wwtp,Village of Copenhagen,Influent,0.11,838,not institution specific,ny,ny,43.89,-75.67
+Lewis,36049,North Country,13620,Castorland WWTF,36049NY0033511LCWWB,NY0033511,NY049033511A,wwtp,Castorland,Influent,0.04,338,not institution specific,ny,ny,43.89,-75.51
+Lewis,36049,North Country,13620,Beaver Falls SD,36049NY0270091LCWWC,NY0270091,NY049270091A,wwtp,Beaver Falls SD,Influent,0.02,107,not institution specific,ny,ny,43.89,-75.44
+Lewis,36049,North Country,13620,Croghan STP,36049NY0206768LCWWD,NY0206768,NY049206768A,wwtp,Village of Croghan,Influent,0.07,621,not institution specific,ny,ny,43.9,-75.4
+Lewis,36049,North Country,13367,Lowville MPCF,36049NY0020125LCWWE,NY0020125,NY049020125A,wwtp,Village of Lowville,Influent,1.8,3953,not institution specific,ny,ny,43.78,-75.48
+Lewis,36049,North Country,13343,Glenfield SD,36049NY0020281LCWWF,NY0020281,NY049020281A,wwtp,Glenfield,Influent,0.06,212,not institution specific,ny,ny,43.72,-75.4
+Lewis,36049,North Country,13368,Lyons Falls WWTF,36049NY0257737LCWWG,NY0257737,NY049257737A,wwtp,Village of Lyons Falls,Influent,0.07,567,not institution specific,ny,ny,43.62,-75.36
+Lewis,36049,North Country,13433,Port Leyden STP,36049NY0030341LCWWH,NY0030341,NY049030341A,wwtp,Village of Port Leyden,Influent,0.06,425,not institution specific,ny,ny,43.59,-75.34
+Lewis,36049,North Country,13325,Constableville STP,36049NY0110418LCWWI,NY0110418,NY049110418A,wwtp,Village of Constableville,Influent,0.04,198,not institution specific,ny,ny,43.56,-75.42
+Franklin,36033,North Country,12986,Tupper Lake WWTP,36033NY0029939FCWWA,NY0029939,NY033029939A,wwtp,Tupper Lake,Influent,4.5,4918,not institution specific,ny,ny,44.23,-74.48
+Franklin,36033,North Country,12930,St Regis Falls WWTP,36033NY0255858FCWWB,NY0255858,NY033255858A,wwtp,St Regis Falls,Influent,0.12,267,not institution specific,ny,ny,44.68,-74.55
+Franklin,36033,North Country,12953,Village of Malone WWTP,36033NY0030376FCWWC,NY0030376,NY033030376A,wwtp,Village of Malone,Influent,3.3,7175,not institution specific,ny,ny,44.86,-74.3
+Franklin,36033,North Country,12920,Brainardsville SD No 1 WWTP,36033NY0255726FCWWD,NY0255726,NY033255726A,wwtp,Brainardsville,Influent,0.03,50,not institution specific,ny,ny,44.86,-74.04
+Franklin,36033,North Country,12920,Chateaugay - V WWTP,36033NY0024830FCWWE,NY0024830,NY033024830A,wwtp,Village of Chateaugay,Influent,0.85,690,not institution specific,ny,ny,44.93,-74.1
+Franklin,36033,North Country,12937,High Street Ft Covington STP,36033NY0027863FCWWF,NY0027863,NY033027863A,wwtp,Fort Covington,Influent,0.09,541,not institution specific,ny,ny,44.99,-74.49
+Franklin,36033,North Country,13655,St. Regis Mohawk Tribe WWTP,36033SR0240281FCWWG,SR0240281,SR033240281A,wwtp,Akwasasne Nation,Influent,,3314,not institution specific,ny,ny,,
+Cattaraugus,36009,Western New York,14741,Bonne Val Subdivision,36009NY0204650CCWWA,NY0204650,NY009204650A,wwtp,Bonne Val Subdivision,Influent,0.02,2,not institution specific,ny,ny,42.24,-78.6
+Cattaraugus,36009,Western New York,14731,Ellicottville WWTP,36009NY0023574CCWWB,NY0023574,NY009023574A,wwtp,Ellicottville,Influent,1.4,427,not institution specific,ny,ny,42.27,-78.66
+Cattaraugus,36009,Western New York,14138,South Dayton STP,36009NY0204846CCWWC,NY0204846,NY009204846A,wwtp,Village of South Dayton,Influent,0.08,459,not institution specific,ny,ny,42.36,-79.05
+Cattaraugus,36009,Western New York,14719,Cattaraugus STP,36009NY0025861CCWWD,NY0025861,NY009025861A,wwtp,Village of Cattaraugus,Influent,0.06,963,not institution specific,ny,ny,42.33,-78.86
+Cattaraugus,36009,Western New York,14719,Town of Otto SD No 1 STP,36009NY0258270CCWWE,NY0258270,NY009258270A,wwtp,Town of Otto SD,Influent,0.03,20,not institution specific,ny,ny,42.36,-78.83
+Cattaraugus,36009,Western New York,14755,Little Valley STP,36009NY0104795CCWWF,NY0104795,NY009104795A,wwtp,Village of Little Valley,Influent,0.18,1276,not institution specific,ny,ny,42.25,-78.79
+Cattaraugus,36009,Western New York,14772,Town of Randolph SD,36009NY0258202CCWWG,NY0258202,NY009258202A,wwtp,Town of Randolph SD,Influent,0.07,452,not institution specific,ny,ny,42.16,-78.98
+Cattaraugus,36009,Western New York,14753,Limestone WWTP,36009NY0029068CCWWH,NY0029068,NY009029068A,wwtp,Carrollton,Influent,0.25,440,not institution specific,ny,ny,42.03,-78.63
+Cattaraugus,36009,Western New York,14760,Olean STP,36009NY0027162CCWWI,NY0027162,NY009027162A,wwtp,Olean,Influent,7,17760,not institution specific,ny,ny,42.07,-78.45
+Cattaraugus,36009,Western New York,14779,Salamanca WWTP,36009NY0020508CCWWL,NY0020508,NY009020508A,wwtp,Salamanca City,Influent,,5593,not institution specific,ny,ny,,
+Cattaraugus,36009,Western New York,14770,Portville WWTP,36009NY0020966CCWWJ,NY0020966,NY009020966A,wwtp,Village of Portville,Influent,0.78,967,not institution specific,ny,ny,42.04,-78.34
+Cattaraugus,36009,Western New York,14737,Franklinville WWTP,36009NY0028991CCWWK,NY0028991,NY009028991A,wwtp,Village of Franklinville,Influent,0.75,1839,not institution specific,ny,ny,42.33,-78.46
+St Lawrence,36089,North Country,13642,Gouverneur - V WWTF,36089NY0020117SLWWA,NY0020117,NY089020117A,wwtp,Village of Gouverneur,Influent,3.67,4705,not institution specific,ny,ny,44.33,-75.49
+St Lawrence,36089,North Country,13635,Edwards STP,36089NY0023809SLWWB,NY0023809,NY089023809A,wwtp,Village of Edwards,Influent,0.08,432,not institution specific,ny,ny,44.32,-75.25
+St Lawrence,36089,North Country,13666,Newton Falls WWTP,36089NY0270211SLWWC,NY0270211,NY089270211A,wwtp,Cranberry Lake,Influent,0.04,53,not institution specific,ny,ny,44.21,-74.99
+St Lawrence,36089,North Country,13695,Fine - T Wanakena SD,36089NY0034533SLWWD,NY0034533,NY089034533A,wwtp,Wanakena,Influent,0.02,27,not institution specific,ny,ny,44.13,-74.92
+St Lawrence,36089,North Country,13625,Colton STP,36089NY0022012SLWWE,NY0022012,NY089022012A,wwtp,Colton,Influent,0.07,292,not institution specific,ny,ny,44.56,-74.94
+St Lawrence,36089,North Country,13676,Potsdam WPCP,36089NY0020818SLWWF,NY0020818,NY089020818A,wwtp,Village of Potsdam,Influent,3.5,22552,not institution specific,ny,ny,44.68,-75
+St Lawrence,36089,North Country,13676,Potsdam SD No 1 STP,36089NY0023337SLWWG,NY0023337,NY089023337A,wwtp,Potsdam SD 1,Influent,0.04,72,not institution specific,ny,ny,44.72,-74.99
+St Lawrence,36089,North Country,13668,Norwood - V WWTP,36089NY0021369SLWWH,NY0021369,NY089021369A,wwtp,Village of Norwood,Influent,0.43,1637,not institution specific,ny,ny,44.75,-75.01
+St Lawrence,36089,North Country,13667,Norfolk SD 1,36089NY0023604SLWWI,NY0023604,NY089023604A,wwtp,Norfolk,Influent,,1736,not institution specific,ny,ny,44.8,-75
+St Lawrence,36089,North Country,13662,Massena WWTP,36089NY0031194SLWWJ,NY0031194,NY089031194A,wwtp,Massena,Influent,4.8,10794,not institution specific,ny,ny,44.94,-74.87
+St Lawrence,36089,North Country,13613,Brasher Falls STP,36089NY0030732SLWWK,NY0030732,NY089030732A,wwtp,Brasher Falls SD,Influent,0.2,774,not institution specific,ny,ny,44.81,-74.77
+St Lawrence,36089,North Country,12967,North Lawrence and Nicholville STP,36089NY0110116SLWWL,NY0110116,NY089110116A,wwtp,North Lawrence,Influent,0.05,157,not institution specific,ny,ny,44.81,-74.68
+St Lawrence,36089,North Country,13646,Hammond - V STP,36089NY0033561SLWWM,NY0033561,NY089033561A,wwtp,Village of Hammond,Influent,0.04,259,not institution specific,ny,ny,44.45,-75.69
+St Lawrence,36089,North Country,13652,Hermon WWTP,36089NY0257532SLWWN,NY0257532,NY089257532A,wwtp,Hermon,Influent,0.06,337,not institution specific,ny,ny,44.47,-75.24
+St Lawrence,36089,North Country,13630,De Kalb Junction STP,36089NY0034762SLWWO,NY0034762,NY089034762A,wwtp,De Kalb Junction,Influent,0.08,210,not institution specific,ny,ny,44.51,-75.28
+St Lawrence,36089,North Country,13680,Rensselaer Falls - V WWTP,36089NY0257613SLWWP,NY0257613,NY089257613A,wwtp,Rensselaer Falls,Influent,0.05,406,not institution specific,ny,ny,44.6,-75.33
+St Lawrence,36089,North Country,13617,Canton WWTP,36089NY0236586SLWWR,NY0236586,NY089236586A,wwtp,Village of Canton,Influent,4.2,14475,not institution specific,ny,ny,44.61,-75.17
+St Lawrence,36089,North Country,13658,Hamlet of Lisbon SD STP,36089NY0257559SLWWS,NY0257559,NY089257559A,wwtp,Hamlet of Lisbon,Influent,0.05,109,not institution specific,ny,ny,44.72,-75.32
+St Lawrence,36089,North Country,13660,Madrid WPCP,36089NY0024635SLWWT,NY0024635,NY089024635A,wwtp,Madrid,Influent,0.12,309,not institution specific,ny,ny,44.75,-75.13
+St Lawrence,36089,North Country,13664,Morristown - V WWTF,36089NY0206997SLWWU,NY0206997,NY089206997A,wwtp,Village of Morristown,Influent,0.12,422,not institution specific,ny,ny,44.59,-75.64
+St Lawrence,36089,North Country,13669,Ogdensburg - C WWTP,36089NY0029831SLWWV,NY0029831,NY089029831A,wwtp,City of Ogdensburg,Influent,6.5,12114,not institution specific,ny,ny,44.7,-75.49
+St Lawrence,36089,North Country,13694,Waddington WWTF,36089NY0030180SLWWW,NY0030180,NY089030180A,wwtp,Village of Waddington,Influent,0.26,952,not institution specific,ny,ny,44.87,-75.19
+Wyoming,36121,Finger Lakes,14009,Arcade STP,36121NY0026948WCWWA,NY0026948,NY121026948A,wwtp,Village of Arcade and Lime Lake SD,Influent,0.5,3555,not institution specific,ny,ny,42.54,-78.46
+Wyoming,36121,Finger Lakes,14427,Village of Castille WWTP,36121NY0269336WCWWB,NY0269336,NY121269336A,wwtp,Village of Castille,Influent,0.18,554,not institution specific,ny,ny,42.63,-78.05
+Wyoming,36121,Finger Lakes,14530,Village of Perry WWTP,36121NY0022985WCWWC,NY0022985,NY121022985A,wwtp,Village of Perry,Influent,0.97,4084,not institution specific,ny,ny,42.72,-77.98
+Wyoming,36121,Finger Lakes,14569,Warsaw STP,36121NY0021504WCWWD,NY0021504,NY121021504A,wwtp,Warsaw City,Influent,1.2,3448,not institution specific,ny,ny,42.75,-78.14
+Orleans,36073,Finger Lakes,14098,Village of Lyndonville WWTP,36073NY0024678OCWWA,NY0024678,NY073024678A,wwtp,Village of Lyndonville,Influent,0.15,833,not institution specific,ny,ny,43.33,-78.39
+Orleans,36073,Finger Lakes,14103,Medina WWTP,36073NY0021873OCWWB,NY0021873,NY073021873A,wwtp,Medina,Influent,4.5,6191,not institution specific,ny,ny,43.23,-78.39
+Orleans,36073,Finger Lakes,14411,Albion Joint Municipal Industrial STP,36073NY0028401OCWWC,NY0028401,NY073028401A,wwtp,Village of Albion,Influent,2.3,6278,not institution specific,ny,ny,43.25,-78.17
+Orleans,36073,Finger Lakes,14470,Holley - V STP,36073NY0023256OCWWD,NY0023256,NY073023256A,wwtp,Village of Holley,Influent,0.45,1704,not institution specific,ny,ny,43.23,-78.02
+Allegany,36003,Western New York,14715,Bolivar WWTP,36003NY0022381ACWWA,NY0022381,NY003022381A,wwtp,Bolivar,Influent,0.4,1389,not institution specific,ny,ny,42.06,-78.17
+Allegany,36003,Western New York,14895,Wellsville - V WWTP,36003NY0020621ACWWB,NY0020621,NY003020621A,wwtp,Wellsville,Influent,2.2,4963,not institution specific,ny,ny,42.13,-77.96
+Allegany,36003,Western New York,14813,Belmont STP,36003NY0031844ACWWC,NY0031844,NY003031844A,wwtp,Belmont,Influent,0.16,976,not institution specific,ny,ny,42.23,-78.04
+Allegany,36003,Western New York,14739,Friendship STP,36003NY0029301ACWWD,NY0029301,NY003029301A,wwtp,Friendship,Influent,0.29,892,not institution specific,ny,ny,42.21,-78.13
+Allegany,36003,Western New York,14727,Cuba STP,36003NY0023515ACWWE,NY0023515,NY003023515A,wwtp,Cuba,Influent,0.97,1899,not institution specific,ny,ny,42.22,-78.29
+Allegany,36003,Western New York,14803,Alfred WWTP,36003NY0022357ACWWF,NY0022357,NY003022357A,wwtp,Alfred,Influent,0.98,4155,not institution specific,ny,ny,42.26,-77.78
+Allegany,36003,Western New York,14822,Canaseraga WWTP,36003NY0269573ACWWG,NY0269573,NY003269573A,wwtp,Canaseraga,Influent,0.1,452,not institution specific,ny,ny,42.47,-77.77
+Allegany,36003,Western New York,14735,Town of Hume STP,36003NY0203858ACWWH,NY0203858,NY003203858A,wwtp,Hamlet of Fillmore,Influent,0.04,406,not institution specific,ny,ny,42.48,-78.1
+Allegany,36003,Western New York,14735,Houghton WWPD,36003NY0024431ACWWI,NY0024431,NY003024431A,wwtp,Hamlet of Houghton,Influent,0.28,1162,not institution specific,ny,ny,42.43,-78.14
+Niagara,36063,Western New York,14067,Gasport SD 1 STP,36063NY0029963NCWWA,NY0029963,NY063029963A,wwtp,Gasport SD,Influent,0.48,711,not institution specific,ny,ny,43.2,-78.56
+Niagara,36063,Western New York,14105,Village of Middleport WWTF,36063NY0022331NCWWB,NY0022331,NY063022331A,wwtp,Village of Middleport,Influent,0.7,1793,not institution specific,ny,ny,43.22,-78.48
+Niagara,36063,Western New York,14012,Somerset-Barker STP,36063NY0030651NCWWC,NY0030651,NY063030651A,wwtp,Somerset-Barker SD,Influent,0.28,1053,not institution specific,ny,ny,43.36,-78.56
+Niagara,36063,Western New York,14172,Wilson STP,36063NY0020419NCWWD,NY0020419,NY063020419A,wwtp,Village of Wilson,Influent,0.31,1056,not institution specific,ny,ny,43.32,-78.84
+Niagara,36063,Western New York,14094,Lockport WWTP,36063NY0027057NCWWE,NY0027057,NY063027057A,wwtp,Lockport,Influent,22,31032,not institution specific,ny,ny,43.19,-78.71
+Niagara,36063,Western New York,14028,Newfane - T WWTP,36063NY0027774NCWWF,NY0027774,NY063027774A,wwtp,Town of Newfane SD,Influent,1.6,5632,not institution specific,ny,ny,43.34,-78.69
+Niagara,36063,Western New York,14174,Lewiston Master SD,36063NY0027766NCWWG,NY0027766,NY063027766A,wwtp,Town of Lewiston SD,Influent,2.75,15126,not institution specific,ny,ny,43.21,-79.04
+Niagara,36063,Western New York,14092,Lewiston STP,36063NY0024481NCWWH,NY0024481,NY063024481A,wwtp,Village of Lewiston,Influent,0.45,2327,not institution specific,ny,ny,43.17,-79.05
+Niagara,36063,Western New York,14120,North Tonawanda STP,36063NY0026280NCWWI,NY0026280,NY063026280A,wwtp,North Tonawanda,Influent,13,30278,not institution specific,ny,ny,43.04,-78.89
+Niagara,36063,Western New York,14304,Niagara County SD No 1 WWTP,36063NY0027979NCWWJ,NY0027979,NY063027979A,wwtp,Niagara County SD,Influent,14.08,38971,not institution specific,ny,ny,43.07,-78.92
+Niagara,36063,Western New York,14303,Niagara Falls STP,36063NY0026336NCWWK,NY0026336,NY063026336A,wwtp,Niagara Falls,Influent,48,48196,not institution specific,ny,ny,43.08,-79.04
+Steuben,36101,Southern Tier,14830,Corning WWTP,36101NY0025721SCWW1,NY0025721,NY101025721A,wwtp,Corning,Influent,3.08,10605,not institution specific,ny,ny,42.14,-77.03
+Steuben,36101,Southern Tier,14870,Erwin WWTP,36101NY0023906SCWW2,NY0023906,NY101023906A,wwtp,Erwin,Influent,1.75,5162,not institution specific,ny,ny,42.15,-77.09
+Steuben,36101,Southern Tier,14843,Hornell - C WPCP,36101NY0023647SCWW3,NY0023647,NY101023647A,wwtp,Hornel City,Influent,4,8156,not institution specific,ny,ny,42.31,-77.65
+Steuben,36101,Southern Tier,14810,Bath WWTP,36101NY0021431SCWW4,NY0021431,NY101021431A,wwtp,Bath,Influent,1,5941,not institution specific,ny,ny,42.33,-77.31
+Steuben,36101,Southern Tier,14870,Village of Painted Post WWTP,36101NY0025712SCWW5,NY0025712,NY101025712A,wwtp,Painted Post,Influent,0.5,1374,not institution specific,ny,ny,42.15,-77.09
+Steuben,36101,Southern Tier,14855,Jasper - T WWTP,36101NY0247251SCWW6,NY0247251,NY101247251A,wwtp,Jasper SD,Influent,0.04,44,not institution specific,ny,ny,42.12,-77.5
+Steuben,36101,Southern Tier,14885,Troupsburg WWTP,36101NY0246999SCWW7,NY0246999,NY101246999A,wwtp,Troupsburg SD,Influent,0.04,39,not institution specific,ny,ny,42.04,-77.54
+Steuben,36101,Southern Tier,14823,Canisteo - V WWTP,36101NY0023248SCWW8,NY0023248,NY101023248A,wwtp,Village of Canisteo,Influent,0.7,2223,not institution specific,ny,ny,42.27,-77.59
+Steuben,36101,Southern Tier,14572,Wayland - V STP,36101NY0032999SCWW9,NY0032999,NY101032999A,wwtp,Wayland,Influent,0.35,1893,not institution specific,ny,ny,42.56,-77.59
+Steuben,36101,Southern Tier,14801,Addison - V STP,36101NY0020320SCWW10,NY0020320,NY101020320A,wwtp,Village of Addison,Influent,0.42,1599,not institution specific,ny,ny,,
+Steuben,36101,Southern Tier,14830,South Corning - V WWTP,36101NY0110531SCWW11,NY0110531,NY101110531A,wwtp,Village of South Corning,Influent,0.2,1325,not institution specific,ny,ny,42.12,-77.03
+Suffolk,36103,Long Island,11704,Bergen Point WWTP,36103NY0104809SCWWA,NY0104809,NY103104809A,wwtp,Towns of Babylon and Islip,Influent,30.5,278775,not institution specific,ny,ny,40.67,-73.34
+Suffolk,36103,Long Island,11746,SCSD No 5 - Huntington STP,36103NY0070033SCWWB,NY0070033,NY103070033A,wwtp,Strathmore - Huntington,Influent,0.24,3988,not institution specific,ny,ny,40.78,-73.36
+Suffolk,36103,Long Island,11721,Northport STP,36103NY0024881SCWWC,NY0024881,NY103024881A,wwtp,Village of Northport,Influent,0.45,1984,not institution specific,ny,ny,40.89,-73.36
+Suffolk,36103,Long Island,11743,Huntington SD STP,36103NY0021342SCWWD,NY0021342,NY103021342A,wwtp,Town of Huntington SD,Influent,2.5,8271,not institution specific,ny,ny,40.88,-73.42
+Suffolk,36103,Long Island,11754,SCSD No 6 - Kings Park STP,36103NY0023311SCWWE,NY0023311,NY103023311A,wwtp,Kings Park SD,Influent,0.6,3964,not institution specific,ny,ny,40.89,-73.23
+Suffolk,36103,Long Island,11787,SCSD No 22 - Hauppauge County STP,36103NY0066028SCWWF,NY0066028,NY103066028A,wwtp,Hauppauge SD,Influent,0.2,749,not institution specific,ny,ny,40.83,-73.23
+Suffolk,36103,Long Island,11788,SCSD No 18 - Hauppauge Industrial Park STP,36103NY0136964SCWWG,NY0136964,NY103136964A,wwtp,Hauppauge Industrial Park,Influent,1.65,385,not institution specific,ny,ny,40.81,-73.26
+Suffolk,36103,Long Island,11780,SCSD No 28 - Fairfield STP,36103NY0091081SCWWH,NY0091081,NY103091081A,wwtp,Fairfield,Influent,0.14,1066,not institution specific,ny,ny,40.87,-73.14
+Suffolk,36103,Long Island,11788,SCSD No 13 - Windwatch STP,36103NY0077429SCWWI,NY0077429,NY103077429A,wwtp,Windwatch,Influent,0.4,801,not institution specific,ny,ny,40.82,-73.18
+Suffolk,36103,Long Island,11779,SCSD No 15 - Nob Hill STP,36103NY0077330SCWWJ,NY0077330,NY103077330A,wwtp,SCSD No 15 - Nob Hill,Influent,0.09,554,not institution specific,ny,ny,40.82,-73.15
+Suffolk,36103,Long Island,11741,SCSD No 14 - Parkland STP,36103NY0065358SCWWK,NY0065358,NY103065358A,wwtp,Parkland,Influent,1.25,6280,not institution specific,ny,ny,40.79,-73.06
+Suffolk,36103,Long Island,11772,Patchogue STP,36103NY0023922SCWWL,NY0023922,NY103023922A,wwtp,Village of Patchogue,Influent,0.5,630,not institution specific,ny,ny,40.76,-73.02
+Suffolk,36103,Long Island,11713,SCSD No 7-W - Woodside STP,36103NY0076988SCWWN,NY0076988,NY103076988A,wwtp,Woodside SD,Influent,0.4,7499,not institution specific,ny,ny,40.79,-72.96
+Suffolk,36103,Long Island,11763,SCSD No 7p - Twelve Pines STP,36103NY0080683SCWWM,NY0080683,NY103080683A,wwtp,Twelve Pines SD,Influent,0.83,5789,not institution specific,ny,ny,40.8,-72.97
+Suffolk,36103,Long Island,11980,SCSD No 16 - Yaphank County Center STP,36103NY0085693SCWWN,NY0085693,NY103085693A,wwtp,Yaphank County Center,Influent,0.25,56,not institution specific,ny,ny,40.81,-72.92
+Suffolk,36103,Long Island,11961,Town of Brookhaven SD No 2,36103NY0277827SCWWO,NY0277827,NY103277827A,wwtp,Brookhaven SD No 2,Influent,0.2,0,not institution specific,ny,ny,40.85,-72.88
+Suffolk,36103,Long Island,11738,SCSD No 9 - College Park STP,36103NY0065447SCWWP,NY0065447,NY103065447A,wwtp,College Park,Influent,0.04,625,not institution specific,ny,ny,40.85,-73.04
+Suffolk,36103,Long Island,11779,SCSD No 12 - Birchwood STP,36103NY0079511SCWWQ,NY0079511,NY103079511A,wwtp,Birchwood SD,Influent,0.18,2669,not institution specific,ny,ny,40.82,-73.07
+Suffolk,36103,Long Island,11784,SCSD No 11 - Selden STP,36103NY0079324SCWWR,NY0079324,NY103079324A,wwtp,Selden SD,Influent,2.4,24147,not institution specific,ny,ny,40.88,-73.03
+Suffolk,36103,Long Island,11764,SCSD No 2 - Tallmadge Woods STP,36103NY0221678SCWWS,NY0221678,NY103221678A,wwtp,Tallmadge Woods SD,Influent,0.4,2423,not institution specific,ny,ny,40.93,-72.99
+Suffolk,36103,Long Island,11953,SCSD No 23 - Coventry Manor STP,36103NY0080667SCWWT,NY0080667,NY103080667A,wwtp,Coventry Manor,Influent,0.07,443,not institution specific,ny,ny,40.89,-72.93
+Suffolk,36103,Long Island,11961,SCSD No 20 - W - Leisure Village,36103NY0079359SCWWU,NY0079359,NY103079359A,wwtp,Leisure Village SD,Influent,0.3,4149,not institution specific,ny,ny,40.91,-72.9
+Suffolk,36103,Long Island,11733,SCSD No 1 - Port Jefferson STP,36103NY0021750SCWWV,NY0021750,NY103021750A,wwtp,Port Jefferson,Influent,1.15,3349,not institution specific,ny,ny,40.95,-73.08
+Suffolk,36103,Long Island,11794,SCSD No 21 SUNY Stony Brook,36103NY0206644SCWWW,NY0206644,NY103206644A,wwtp,SUNY Stony Brook,Influent,2.8,28183,not institution specific,ny,ny,40.92,-73.12
+Suffolk,36103,Long Island,11933,Calverton SD and WWTF,36103NY0025453SCWWX,NY0025453,NY103025453A,wwtp,Calverton SD,Influent,0.01,4,not institution specific,ny,ny,40.92,-72.75
+Suffolk,36103,Long Island,11901,Riverhead SD WWTF,36103NY0020061SCWWY,NY0020061,NY103020061A,wwtp,Riverhead,Influent,1.3,7741,not institution specific,ny,ny,40.92,-72.64
+Suffolk,36103,Long Island,11978,SCSD No 24 Gabbreski Airport STP,36103NY0226971SCWWZ,NY0226971,NY103226971A,wwtp,Gabbreski Airport,Influent,0.1,24,not institution specific,ny,ny,40.84,-72.63
+Suffolk,36103,Long Island,11963,Sag Harbor STP,36103NY0028908SCWW1,NY0028908,NY103028908A,wwtp,Sag Harbor,Influent,0.25,225,not institution specific,ny,ny,41,-72.29
+Suffolk,36103,Long Island,11944,Greenport - V WWTP,36103NY0020079SCWW2,NY0020079,NY103020079A,wwtp,Village of Greenport,Influent,0.66,2263,not institution specific,ny,ny,41.1,-72.38
+Suffolk,36103,Long Island,11770,Ocean Beach STP,36103NY0020168SCWW3,NY0020168,NY103020168A,wwtp,Ocean Beach,Influent,0.5,33,not institution specific,ny,ny,40.65,-73.15
+Ulster,36111,Mid-Hudson,12410,Pine Hill WWTP,36111NY0026557UCWWA,NY0026557,NY111026557A,wwtp,Pine Hill,Influent,0.5,146,not institution specific,ny,ny,42.12,-74.46
+Ulster,36111,Mid-Hudson,12458,Wawarsing Naponoch Simpro Area STP,36111NY0029718UCWWB,NY0029718,NY111029718A,wwtp,Wawarsing,Influent,0.52,605,not institution specific,ny,ny,41.75,-74.36
+Ulster,36111,Mid-Hudson,12428,Ellenville STP,36111NY0034002UCWWC,NY0034002,NY111034002A,wwtp,Ellenville,Influent,0.8,5009,not institution specific,ny,ny,41.72,-74.38
+Ulster,36111,Mid-Hudson,12446,Kerhonkson WWTF,36111NY0109924UCWWD,NY0109924,NY111109924A,wwtp,Korhonkson SD,Influent,0.13,437,not institution specific,ny,ny,41.77,-74.31
+Ulster,36111,Mid-Hudson,12589,Shawangunk Wallkill SD,36111NY0021521UCWWE,NY0021521,NY111021521A,wwtp,Shawangunk Walkill SD,Influent,0.64,1086,not institution specific,ny,ny,41.63,-74.19
+Ulster,36111,Mid-Hudson,12525,Gardiner SD 1 STP,36111NY0109096UCWWF,NY0109096,NY111109096A,wwtp,Gardiner SD,Influent,0.06,179,not institution specific,ny,ny,41.68,-74.16
+Ulster,36111,Mid-Hudson,12542,Marlboro STP,36111NY0109720UCWWG,NY0109720,NY111109720A,wwtp,Marlboro,Influent,0.18,1707,not institution specific,ny,ny,41.61,-73.97
+Ulster,36111,Mid-Hudson,12547,Milton WWTF,36111NY0259829UCWWH,NY0259829,NY111259829A,wwtp,Milton,Influent,0.06,373,not institution specific,ny,ny,41.65,-73.96
+Ulster,36111,Mid-Hudson,12528,Lloyd Highland STP,36111NY0024295UCWWI,NY0024295,NY111024295A,wwtp,Highland,Influent,1.25,3712,not institution specific,ny,ny,41.72,-73.95
+Ulster,36111,Mid-Hudson,12561,New Paltz Ohioville SD 6 STP,36111NY0109886UCWWJ,NY0109886,NY111109886A,wwtp,East New Paltz,Influent,0.02,80,not institution specific,ny,ny,41.74,-74.06
+Ulster,36111,Mid-Hudson,12561,New Paltz - V WWTF,36111NY0030082UCWWK,NY0030082,NY111030082A,wwtp,New Paltz,Influent,1.5,10577,not institution specific,ny,ny,41.75,-74.09
+Ulster,36111,Mid-Hudson,12401,Rosendale WWTF,36111NY0109061UCWWL,NY0109061,NY111109061A,wwtp,Rosendale,Influent,0.1,623,not institution specific,ny,ny,41.85,-74.07
+Ulster,36111,Mid-Hudson,12401,Ulster SD STP,36111NY0021563UCWWM,NY0021563,NY111021563A,wwtp,Town of Ulster,Influent,1.6,4825,not institution specific,ny,ny,41.97,-74.01
+Ulster,36111,Mid-Hudson,12401,Kingston WWTF,36111NY0029351UCWWN,NY0029351,NY111029351A,wwtp,Kingston,Influent,6.8,26599,not institution specific,ny,ny,41.92,-73.98
+Ulster,36111,Mid-Hudson,12401,Ulster Whittier SD STP,36111NY0021571UCWWO,NY0021571,NY111021571A,wwtp,Whittier,Influent,0.1,699,not institution specific,ny,ny,41.98,-73.96
+Ulster,36111,Mid-Hudson,12414,Glascto WWTP,36111NY0145564UCWWP,NY0145564,NY111145564A,wwtp,Glasco,Influent,0.42,4459,not institution specific,ny,ny,42.04,-73.94
+Ulster,36111,Mid-Hudson,12414,Saugerties Malden On Hudston STP,36111NY0145556UCWWQ,NY0145556,NY111145556A,wwtp,Malden SD,Influent,0.1,373,not institution specific,ny,ny,42.1,-73.93
+Ulster,36111,Mid-Hudson,12477,Saugerties - V STP,36111NY0031208UCWWR,NY0031208,NY111031208A,wwtp,Village of Saugerties,Influent,1.36,3793,not institution specific,ny,ny,42.07,-73.94
+Ulster,36111,Mid-Hudson,12498,Woodstock STP,36111NY0109711UCWWS,NY0109711,NY111109711A,wwtp,Woodstock,Influent,0.23,509,not institution specific,ny,ny,42.04,-74.09
+Ulster,36111,Mid-Hudson,12412,Boiceville WWTP,36111NY0274038UCWWT,NY0274038,NY111274038A,wwtp,Boiceville,Influent,0.08,49,not institution specific,ny,ny,42.01,-74.27
+Sullivan,36105,Mid-Hudson,12764,Narrowsburg SD STP,36105NY0110205SCWWA,NY0110205,NY105110205A,wwtp,Narrowsburg,Influent,0.1,382,not institution specific,ny,ny,41.6,-75.07
+Sullivan,36105,Mid-Hudson,12726,Lake Huntington SD,36105NY0030694SCWWB,NY0030694,NY105030694A,wwtp,Lake Huntington,Influent,0.21,121,not institution specific,ny,ny,41.67,-74.99
+Sullivan,36105,Mid-Hudson,12723,Callicoon SD,36105NY0110574SCWWC,NY0110574,NY105110574A,wwtp,Callicoon,Influent,0.12,192,not institution specific,ny,ny,41.76,-75.05
+Sullivan,36105,Mid-Hudson,12758,Livingston Manor STP,36105NY0025437SCWWD,NY0025437,NY105025437A,wwtp,Livingtston Manor,Influent,0.8,957,not institution specific,ny,ny,41.91,-74.83
+Sullivan,36105,Mid-Hudson,12748,Jeffersonville WWTP,36105NY0109029SCWWE,NY0109029,NY105109029A,wwtp,Jeffersonville,Influent,0.12,556,not institution specific,ny,ny,41.77,-74.94
+Sullivan,36105,Mid-Hudson,12783,Swan Lake STP,36105NY0030252SCWWF,NY0030252,NY105030252A,wwtp,Swan Lake SD,Influent,0.42,343,not institution specific,ny,ny,41.75,-74.78
+Sullivan,36105,Mid-Hudson,12754,Liberty Loomis STP,36105NY0030261SCWWG,NY0030261,NY105030261A,wwtp,Liberty Loomis SD,Influent,0.08,187,not institution specific,ny,ny,41.79,-74.79
+Sullivan,36105,Mid-Hudson,12754,Liberty WWTF,36105NY0030074SCWWH,NY0030074,NY105030074A,wwtp,Liberty,Influent,2,4548,not institution specific,ny,ny,41.79,-74.73
+Sullivan,36105,Mid-Hudson,12775,Emerald Green and Lake Louise SD,36105NY0035645SCWWI,NY0035645,NY105035645A,wwtp,Emerald Green and Lake Louise,Influent,0.41,1073,not institution specific,ny,ny,41.62,-74.59
+Sullivan,36105,Mid-Hudson,12740,NYC DEP - Grahamsville WWTP,36105NY0026549SCWWJ,NY0026549,NY105026549A,wwtp,Grahamsville,Influent,0.18,193,not institution specific,ny,ny,41.84,-74.54
+Sullivan,36105,Mid-Hudson,12701,Thompson Melody Lake STP,36105NY0030708SCWWK,NY0030708,NY105030708A,wwtp,Melody Lake SD,Influent,0.04,130,not institution specific,ny,ny,41.59,-74.67
+Sullivan,36105,Mid-Hudson,12701,Thompson Sacket Lake STP,36105NY0030716SCWWL,NY0030716,NY105030716A,wwtp,Sacket Lake SD,Influent,0.5,225,not institution specific,ny,ny,41.61,-74.75
+Sullivan,36105,Mid-Hudson,12786,Bethel Kauneonga Lake STP,36105NY0099368SCWWM,NY0099368,NY105099368A,wwtp,Kauneonga Lake,Influent,0.6,344,not institution specific,ny,ny,41.69,-74.83
+Sullivan,36105,Mid-Hudson,12701,Monticello STP,36105NY0022454SCWWN,NY0022454,NY105022454A,wwtp,Monticello,Influent,3.1,6639,not institution specific,ny,ny,41.64,-74.67
+Sullivan,36105,Mid-Hudson,12701,Kiamesha Lake STP,36105NY0030724SCWWO,NY0030724,NY105030724A,wwtp,Kiamesha Lake SD,Influent,2,740,not institution specific,ny,ny,41.66,-74.66
+Sullivan,36105,Mid-Hudson,12759,Loch Sheldrake WWTP,36105NY0024538SCWWP,NY0024538,NY105024538A,wwtp,Loch Sheldrake,Influent,0.7,1452,not institution specific,ny,ny,41.77,-74.65
+Sullivan,36105,Mid-Hudson,12789,Woodridge Greenfield Rd WWTP,36105NY0272817SCWWQ,NY0272817,NY105272817A,wwtp,Village of Woodridge,Influent,0.8,883,not institution specific,ny,ny,41.71,-74.56
+Sullivan,36105,Mid-Hudson,12763,Mountain Dale WWTP,36105NY0145696SCWWR,NY0145696,NY105145696A,wwtp,Mountain Dale,Influent,0.18,371,not institution specific,ny,ny,41.69,-74.53
+Sullivan,36105,Mid-Hudson,12789,Avon WWTP,36105NY0023493SCWWS,NY0023493,NY105023493A,wwtp,Woodridge - Sullivan Co,Influent,0.79,319,not institution specific,ny,ny,41.7,-74.61
+Sullivan,36105,Mid-Hudson,12733,South Fallsburg WWTP,36105NY0024520SCWWT,NY0024520,NY105024520A,wwtp,South Fallsburg,Influent,3.26,4925,not institution specific,ny,ny,41.72,-74.62
+Sullivan,36105,Mid-Hudson,12721,Bloomingburg - V STP,36105NY0208426SCWWU,NY0208426,NY105208426A,wwtp,Bloomingburg,Influent,0.07,400,not institution specific,ny,ny,41.55,-74.43
+Sullivan,36105,Mid-Hudson,12776,Roscoe STP,36105NY0034983SCWWV,NY0034983,NY105034983A,wwtp,Roscoe,Influent,0.2,207,not institution specific,ny,ny,41.95,-74.93
+Chautauqua,36013,Western New York,14723,Cherry Creek STP,36013NY0204081CCWWA,NY0204081,NY013204081A,wwtp,Cherry Creek,Influent,0.06,165,not institution specific,ny,ny,42.29,-79.1
+Chautauqua,36013,Western New York,14787,Westfield WPCF,36013NY0021334CCWWB,NY0021334,NY013021334A,wwtp,Westfield,Influent,2.6,3365,not institution specific,ny,ny,42.33,-79.59
+Chautauqua,36013,Western New York,14701,South and Center Chautauqua Lake WWTP,36013NY0106895CCWWC,NY0106895,NY013106895A,wwtp,South and Center Chautauqua Lake,Influent,4.1,9379,not institution specific,ny,ny,42.11,-79.27
+Chautauqua,36013,Western New York,14733,Jamestown STP,36013NY0027570CCWWD,NY0027570,NY013027570A,wwtp,Jamestown,Influent,12,32501,not institution specific,ny,ny,42.11,-79.16
+Chautauqua,36013,Western New York,14757,North Chautauqua Lake WWTP,36013NY0020826CCWWE,NY0020826,NY013020826A,wwtp,North Chautauqua Lake,Influent,0.5,1541,not institution specific,ny,ny,42.24,-79.5
+Chautauqua,36013,Western New York,14757,Chautauqua Utility Dist STP,36013NY0029769CCWWF,NY0029769,NY013029769A,wwtp,West Chautauqua Lake,Influent,0.84,759,not institution specific,ny,ny,42.2,-79.46
+Chautauqua,36013,Western New York,14728,Chautauqua Heights SD,36013NY0269450CCWWG,NY0269450,NY013269450A,wwtp,Chautauqua Heights,Influent,0.06,36,not institution specific,ny,ny,,
+Chautauqua,36013,Western New York,14775,Ripley WPCF,36013NY0025381CCWWH,NY0025381,NY013025381A,wwtp,Ripley,Influent,0.4,585,not institution specific,ny,ny,42.28,-79.72
+Chautauqua,36013,Western New York,14781,Sherman WWTP,36013NY0036315CCWWI,NY0036315,NY013036315A,wwtp,Village of Sherman,Influent,0.14,720,not institution specific,ny,ny,42.16,-79.6
+Chautauqua,36013,Western New York,14716,Brocton STP,36013NY0023507CCWWJ,NY0023507,NY013023507A,wwtp,Village of Brocton,Influent,0.66,2255,not institution specific,ny,ny,42.4,-79.44
+Chautauqua,36013,Western New York,14048,Fredonia WWTP,36013NY0026409CCWWK,NY0026409,NY013026409A,wwtp,Fredonia,Influent,3.3,12361,not institution specific,ny,ny,42.47,-79.37
+Chautauqua,36013,Western New York,14048,City of Dunkirk WWTP,36013NY0027961CCWWL,NY0027961,NY013027961A,wwtp,City of Dunkirk,Influent,6,12616,not institution specific,ny,ny,42.5,-79.32
+Chautauqua,36013,Western New York,14136,Silver Creek WWTP,36013NY0022411CCWWM,NY0022411,NY013022411A,wwtp,Village of Silver Creek,Influent,0.75,2406,not institution specific,ny,ny,42.55,-79.17
+Chautauqua,36013,Western New York,14081,Hanover WPCF,36013NY0105104CCWWN,NY0105104,NY013105104A,wwtp,Hanover,Influent,0.5,1102,not institution specific,ny,ny,42.57,-79.11
+Chautauqua,36013,Western New York,14718,Lily Dale WWPD,36013NY0100242CCWWO,NY0100242,NY013100242A,wwtp,Lily Dale SD,Influent,0.05,300,not institution specific,ny,ny,42.35,-79.33
+Wayne,36117,Finger Lakes,14590,Red Creek Regional WWTP,36117NY0246930WCWWA,NY0246930,NY117246930A,wwtp,Villages of Fairhaven and Red Creek,Influent,0.5,2518,not institution specific,ny,ny,43.28,-76.75
+Wayne,36117,Finger Lakes,13146,Savannah - T WWTP,36117NY0162663WCWWB,NY0162663,NY117162663A,wwtp,Town of Savannah SD,Influent,0.05,238,not institution specific,ny,ny,43.07,-76.76
+Wayne,36117,Finger Lakes,14433,Clyde - V STP,36117NY0023965WCWWC,NY0023965,NY117023965A,wwtp,Village of Clyde,Influent,0.4,2098,not institution specific,ny,ny,43.08,-76.87
+Wayne,36117,Finger Lakes,14489,Lyons - T STP,36117NY0022551WCWWD,NY0022551,NY117022551A,wwtp,Town of Lyons,Influent,0.75,2663,not institution specific,ny,ny,43.06,-76.98
+Wayne,36117,Finger Lakes,14513,Newark WWTF,36117NY0029475WCWWE,NY0029475,NY117029475A,wwtp,Newark,Influent,3,8931,not institution specific,ny,ny,43.05,-77.09
+Wayne,36117,Finger Lakes,14522,Palmyra - V STP,36117NY0025101WCWWF,NY0025101,NY117025101A,wwtp,Palmyra,Influent,0.6,3561,not institution specific,ny,ny,43.06,-77.22
+Wayne,36117,Finger Lakes,14502,Macedon - STP,36117NY0023612WCWWG,NY0023612,NY117023612A,wwtp,Macedon,Influent,0.75,2492,not institution specific,ny,ny,43.07,-77.29
+Wayne,36117,Finger Lakes,14568,Town of Walworth SD No 1,36117NY0025704WCWWH,NY0025704,NY117025704A,wwtp,Walworth SD,Influent,1.25,5663,not institution specific,ny,ny,43.13,-77.3
+Wayne,36117,Finger Lakes,14505,Marion - T STP,36117NY0031569WCWWI,NY0031569,NY117031569A,wwtp,Marion,Influent,0.12,735,not institution specific,ny,ny,43.13,-77.18
+Wayne,36117,Finger Lakes,14519,Town of Ontario WWTP,36117NY0027171WCWWJ,NY0027171,NY117027171A,wwtp,Town of Ontario,Influent,1,5145,not institution specific,ny,ny,43.27,-77.28
+Wayne,36117,Finger Lakes,14589,Williamson - T STP,36117NY0108723WCWWK,NY0108723,NY117108723A,wwtp,Town of Williamson,Influent,0.62,3685,not institution specific,ny,ny,43.27,-77.17
+Wayne,36117,Finger Lakes,14551,Sodus - V WWTP,36117NY0021482WCWWL,NY0021482,NY117021482A,wwtp,Village of Sodus,Influent,0.38,1590,not institution specific,ny,ny,43.25,-77.06
+Wayne,36117,Finger Lakes,14555,Sodus Point - V STP,36117NY0028088WCWWM,NY0028088,NY117028088A,wwtp,Village of Sodus Point,Influent,0.57,800,not institution specific,ny,ny,43.27,-77
+Essex,36031,North Country,12983,Bloomingdale STP,36031NY0020991ECWWA,NY0020991,NY031020991A,wwtp,Bloomingdale,Influent,0.06,481,not institution specific,ny,ny,44.4,-74.08
+Essex,36031,North Country,12913,Saranac Lake STP,36031NY0021733ECWWB,NY0021733,NY031021733A,wwtp,Saranac Lake,Influent,2.62,6264,not institution specific,ny,ny,44.35,-74.11
+Essex,36031,North Country,12946,Lake Placid WPCP,36031NY0022187ECWWC,NY0022187,NY031022187A,wwtp,Lake Placid,Influent,2.5,3076,not institution specific,ny,ny,44.27,-73.97
+Essex,36031,North Country,12852,Winebrook Hills WWTP,36031NY0023132ECWWD,NY0023132,NY031023132A,wwtp,Winebrook Hills SD,Influent,0.04,16,not institution specific,ny,ny,43.96,-74.12
+Essex,36031,North Country,12870,Schroon Lake WWTP,36031NY0020231ECWWE,NY0020231,NY031020231A,wwtp,Schroon Lake,Influent,0.35,254,not institution specific,ny,ny,43.84,-73.76
+Essex,36031,North Country,12883,Ticonderoga SD No 5 WPCP,36031NY0036706ECWWF,NY0036706,NY031036706A,wwtp,Ticonderoga,Influent,1.7,3263,not institution specific,ny,ny,43.85,-73.42
+Essex,36031,North Country,12928,Crown Point SD No 1,36031NY0239844ECWWG,NY0239844,NY031239844A,wwtp,Crown Point,Influent,0.06,86,not institution specific,ny,ny,43.95,-73.42
+Essex,36031,North Country,12974,Town of Moriah WWTF,36031NY0022969ECWWH,NY0022969,NY031022969A,wwtp,Town of Moriah,Influent,0.85,2809,not institution specific,ny,ny,44.04,-73.46
+Essex,36031,North Country,12993,Westport WWTP,36031NY0020222ECWWI,NY0020222,NY031020222A,wwtp,Westport,Influent,0.18,373,not institution specific,ny,ny,44.19,-73.43
+Essex,36031,North Country,12993,Wadhams SD WWTF,36031NY0217760ECWWJ,NY0217760,NY031217760A,wwtp,Wadhams SD,Influent,0.02,30,not institution specific,ny,ny,44.23,-73.46
+Essex,36031,North Country,12996,Essex SD No 1,36031NY0256471ECWWK,NY0256471,NY031256471A,wwtp,Essex SD,Influent,0.06,41,not institution specific,ny,ny,44.31,-73.35
+Essex,36031,North Country,12996,Willsboro SD No 1 WWTF,36031NY0239682ECWWL,NY0239682,NY031239682A,wwtp,Willsboro SD,Influent,0.08,504,not institution specific,ny,ny,44.37,-73.39
+Ontario,36069,Finger Lakes,14471,Honeoye Lake County Consolidated SD,36069NY0107255OCWWA,NY0107255,NY069107255A,wwtp,Honeoye Lake,Influent,,1493,not institution specific,ny,ny,42.79,-77.51
+Ontario,36069,Finger Lakes,14469,Bloomfield - V STP,36069NY0024007OCWWB,NY0024007,NY069024007A,wwtp,Bloomfield,Influent,0.32,1737,not institution specific,ny,ny,42.9,-77.42
+Ontario,36069,Finger Lakes,14504,Manchester Shortsville STP,36069NY0030813OCWWC,NY0030813,NY069030813A,wwtp,Manchester,Influent,0.88,3626,not institution specific,ny,ny,42.97,-77.22
+Ontario,36069,Finger Lakes,14432,Clifton Springs - V WWTP,36069NY0020311OCWWD,NY0020311,NY069020311A,wwtp,Clifton Springs,Influent,0.5,2395,not institution specific,ny,ny,42.97,-77.13
+Ontario,36069,Finger Lakes,14532,Phelps - V STP,36069NY0024651OCWWE,NY0024651,NY069024651A,wwtp,Phelps,Influent,0.3,1617,not institution specific,ny,ny,42.96,-77.05
+Ontario,36069,Finger Lakes,14561,Gorham - T STP,36069NY0160814OCWWF,NY0160814,NY069160814A,wwtp,Town of Gorham SD,Influent,0.06,375,not institution specific,ny,ny,42.8,-77.13
+Ontario,36069,Finger Lakes,14456,Geneva - C Marsh Creek STP,36069NY0027049OCWWG,NY0027049,NY069027049A,wwtp,Geneva,Influent,6,16225,not institution specific,ny,ny,42.88,-76.97
+Ontario,36069,Finger Lakes,14512,Naples - V WWTP,36069NY0272060OCWWH,NY0272060,NY069272060A,wwtp,Village of Naples,Influent,0.05,1204,not institution specific,ny,ny,42.62,-77.4
+Ontario,36069,Finger Lakes,14564,Victor - V STP,36069NY0022713OCWWI,NY0022713,NY069022713A,wwtp,Village of Victor,Influent,0.5,3140,not institution specific,ny,ny,42.98,-77.4
+Ontario,36069,Finger Lakes,14564,Farmington - T STP,36069NY0023531OCWWJ,NY0023531,NY069023531A,wwtp,Town of Victor and Town Of Farmington,Influent,4,16507,not institution specific,ny,ny,42.98,-77.38
+Ontario,36069,Finger Lakes,14424,Canandaiguia - C STP,36069NY0025968OCWWK,NY0025968,NY069025968A,wwtp,Canandaigua,Influent,6.5,17936,not institution specific,ny,ny,42.88,-77.27
+Putnam,36079,Mid-Hudson,10516,Cold Springs WWTP,36079NY0022721PCWWA,NY0022721,NY079022721A,wwtp,Cold Springs,Influent,0.5,1756,not institution specific,ny,ny,41.42,-73.96
+Putnam,36079,Mid-Hudson,12563,Patterson Hamlet WWTP,36079NY0265080PCWWB,NY0265080,NY079265080A,wwtp,Patterson Hamlet,Influent,0.08,875,not institution specific,ny,ny,41.51,-73.61
+Putnam,36079,Mid-Hudson,10509,Peach Lake SD WWTP,36079NY0274526PCWWC,NY0274526,NY079274526A,wwtp,Peach Lake,Influent,0.17,152,not institution specific,ny,ny,41.37,-73.58
+Putnam,36079,Mid-Hudson,10509,Southeast Brewster Heights SD 1,36079NY0110353PCWWE,NY0110353,NY079110353A,wwtp,Brewster Heights SD,Influent,0.15,733,not institution specific,ny,ny,41.4,-73.62
+Putnam,36079,Mid-Hudson,10509,Blackberry Hill SSD STP,36079NY0062570PCWWD,NY0062570,NY079062570A,wwtp,Blackberry Hill,Influent,0.07,227,not institution specific,ny,ny,41.41,-73.61
+Putnam,36079,Mid-Hudson,10509,Brewster - V STP,36079NY0026581PCWWF,NY0026581,NY079026581A,wwtp,Village of Brewster,Influent,0.24,2318,not institution specific,ny,ny,41.39,-73.62
+Putnam,36079,Mid-Hudson,10541,Carmel SD 4 STP,36079NY0105252PCWWG,NY0105252,NY079105252A,wwtp,Carmel SD 4,Influent,0.2,1025,not institution specific,ny,ny,41.38,-73.79
+Putnam,36079,Mid-Hudson,10541,Country Manor STP,36079NY0029017PCWWH,NY0029017,NY079029017A,wwtp,Country Manor,Influent,0.05,329,not institution specific,ny,ny,41.36,-73.74
+Putnam,36079,Mid-Hudson,10512,Carmel SD No 2 STP,36079NY0031356PCWWI,NY0031356,NY079031356A,wwtp,Carmel,Influent,1.1,4480,not institution specific,ny,ny,41.42,-73.67
+Putnam,36079,Mid-Hudson,10541,Mahopac WWTP,36079NY0026590PCWWJ,NY0026590,NY079026590A,wwtp,Mahopac,Influent,0.3,1628,not institution specific,ny,ny,41.38,-73.72
+Putnam,36079,Mid-Hudson,10598,Carmel Hillsdale Estates STP,36079NY0030678PCWWK,NY0030678,NY079030678A,wwtp,Hillsdale Estates,Influent,0.03,212,not institution specific,ny,ny,41.34,-73.78
+Rensselaer,36083,Capital,12180,Rensselaer Co SD 1 WWTP,36083NY0087971RCWWA,NY0087971,NY083087971A,wwtp,Rensselaer,Influent,24,79699,not institution specific,ny,ny,42.68,-73.71
+Rensselaer,36083,Capital,12144,East Greenbush WWTP,36083NY0026034RCWWB,NY0026034,NY083026034A,wwtp,East Greenbush,Influent,2.5,13720,not institution specific,ny,ny,42.63,-73.74
+Rensselaer,36083,Capital,12185,Valley Falls WWTP,36083NY0261360RCWWC,NY0261360,NY083261360A,wwtp,Valley Falls,Influent,0.06,324,not institution specific,ny,ny,42.9,-73.57
+Rensselaer,36083,Capital,12090,Hoosick Falls - V STP,36083NY0024821RCWWD,NY0024821,NY083024821A,wwtp,Hoosick Falls,Influent,1.5,3399,not institution specific,ny,ny,42.91,-73.36
+Rensselaer,36083,Capital,12156,Schodack Landing Sewers,36083NY0268852RCWWE,NY0268852,NY083268852A,wwtp,Schodack Landing,Influent,0.02,104,not institution specific,ny,ny,42.48,-73.77
+Rensselaer,36083,Capital,12033,Castleton On Hudson - V STP,36083NY0030970RCWWF,NY0030970,NY083030970A,wwtp,Castleton On Hudson,Influent,0.24,1641,not institution specific,ny,ny,42.54,-73.75
+Rensselaer,36083,Capital,12063,Town of Schodack SD No 5,36083NY0242012RCWWG,NY0242012,NY083242012A,wwtp,Town of Schodack SD,Influent,0.01,469,not institution specific,ny,ny,42.56,-73.64
+Clinton,36019,North Country,12944,Keesville WWTP,36019NY0025097CCWWA,NY0025097,NY019025097A,wwtp,Keesville,Influent,0.4,1852,not institution specific,ny,ny,44.51,-73.47
+Clinton,36019,North Country,12912,Ausable Forks Community WWTP,36019NY0201910CCWWB,NY0201910,NY019201910A,wwtp,Ausable Forks,Influent,0.15,476,not institution specific,ny,ny,44.45,-73.65
+Clinton,36019,North Country,12972,Peru STP,36019NY0023949CCWWC,NY0023949,NY019023949A,wwtp,Peru,Influent,0.5,1100,not institution specific,ny,ny,44.58,-73.52
+Clinton,36019,North Country,12918,Cadyville WWTP,36019NY0255751CCWWD,NY0255751,NY019255751A,wwtp,Cadyville,Influent,0.01,4499,not institution specific,ny,ny,44.7,-73.63
+Clinton,36019,North Country,12901,Plattsburgh WPCP,36019NY0026018CCWWE,NY0026018,NY019026018A,wwtp,Plattsburgh,Influent,16,20893,not institution specific,ny,ny,44.7,-73.45
+Clinton,36019,North Country,12901,Valcour WWPD,36019NY0183636CCWWF,NY0183636,NY019183636A,wwtp,Valcour SD,Influent,0.05,566,not institution specific,ny,ny,44.62,-73.44
+Clinton,36019,North Country,12918,Dannemora STP,36019NY0022195CCWWG,NY0022195,NY019022195A,wwtp,Village of Danemora,Influent,1.5,5532,not institution specific,ny,ny,44.71,-73.71
+Clinton,36019,North Country,12952,Lyon Mountain SD WWTP,36019NY0239577CCWWH,NY0239577,NY019239577A,wwtp,Lyon Mountain,Influent,0.07,175,not institution specific,ny,ny,44.73,-73.91
+Clinton,36019,North Country,12921,Chazy WWTF,36019NY0255971CCWWI,NY0255971,NY019255971A,wwtp,Chazy,Influent,0.08,516,not institution specific,ny,ny,44.9,-73.43
+Clinton,36019,North Country,12919,Champlain WWTP,36019NY0032204CCWWJ,NY0032204,NY019032204A,wwtp,Champlain,Influent,0.65,997,not institution specific,ny,ny,44.99,-73.44
+Clinton,36019,North Country,12979,Rouses Point WWTP,36019NY0021831CCWWK,NY0021831,NY019021831A,wwtp,Rouses Point,Influent,2,1707,not institution specific,ny,ny,45,-73.37
+Schoharie,36095,Mohawk Valley,12122,Middleburgh - V STP,36095NY0192309SCWWA,NY0192309,NY095192309A,wwtp,Middleburgh,Influent,0.09,780,not institution specific,ny,ny,42.59,-74.34
+Schoharie,36095,Mohawk Valley,12149,Richmondville - V STP,36095NY0022519SCWWB,NY0022519,NY095022519A,wwtp,Richmondville,Influent,0.2,589,not institution specific,ny,ny,42.64,-74.56
+Schoharie,36095,Mohawk Valley,12043,Cobbleskill - V WPCP,36095NY0024201SCWWC,NY0024201,NY095024201A,wwtp,Cobbleskill,Influent,1.8,5326,not institution specific,ny,ny,42.68,-74.48
+Schoharie,36095,Mohawk Valley,12043,Seward - T STP,36095NY0212199SCWWD,NY0212199,NY095212199A,wwtp,Seward SD,Influent,0.02,39,not institution specific,ny,ny,42.72,-74.61
+Schoharie,36095,Mohawk Valley,13459,Sharon Springs STP,36095NY0033588SCWWE,NY0033588,NY095033588A,wwtp,Sharon Springs,Influent,0.43,383,not institution specific,ny,ny,42.8,-74.61
+Schoharie,36095,Mohawk Valley,12092,Central Bridge WWTP,36095NY0263087SCWWF,NY0263087,NY095263087A,wwtp,Central Bridge SD,Influent,0.06,207,not institution specific,ny,ny,42.71,-74.33
+Schoharie,36095,Mohawk Valley,12157,Schoharie - V STP,36095NY0023655SCWWG,NY0023655,NY095023655A,wwtp,Schoharie,Influent,0.32,658,not institution specific,ny,ny,42.67,-74.31
+Washington,36115,Capital,12819,Frederick's Point SD No 2,36115NY0265365WCWWA,NY0265365,NY115265365A,wwtp,Frederick's Point,Influent,0.01,10,not institution specific,ny,ny,43.64,-73.51
+Washington,36115,Capital,12827,Fort Ann STP,36115NY0030627WCWWB,NY0030627,NY115030627A,wwtp,Village of Fort Ann,Influent,0.11,5316,not institution specific,ny,ny,43.42,-73.49
+Washington,36115,Capital,12828,Washington Co SD No 2,36115NY0183695WCWWC,NY0183695,NY115183695A,wwtp,Fort Edward and Kingsbury,Influent,2.5,12260,not institution specific,ny,ny,43.26,-73.58
+Washington,36115,Capital,12832,Village of Granville WWTP,36115NY0021547WCWWD,NY0021547,NY115021547A,wwtp,Village of Granville,Influent,0.65,2768,not institution specific,ny,ny,43.41,-73.27
+Washington,36115,Capital,12887,Whitehall STP,36115NY0024929WCWWE,NY0024929,NY115024929A,wwtp,Whitehall,Influent,1.7,1420,not institution specific,ny,ny,43.55,-73.4
+Washington,36115,Capital,12834,Greenwich STP,36115NY0131555WCWWF,NY0131555,NY115131555A,wwtp,Village of Greenwich,Influent,0.05,423,not institution specific,ny,ny,43.09,-73.49
+Schenectady,36093,Capital,12306,Rotterdam SD No 2,36093NY0020141SCWWA,NY0020141,NY093020141A,wwtp,Town of Rotterdam SD 2,Influent,1.5,14825,not institution specific,ny,ny,42.8,-73.99
+Schenectady,36093,Capital,12308,Schenectady - C STP,36093NY0020516SCWWB,NY0020516,NY093020516A,wwtp,Schenectady,Influent,18.5,78444,not institution specific,ny,ny,42.84,-73.92
+Schenectady,36093,Capital,12309,Niskayuna - T SD 6 WWTP,36093NY0023973SCWWC,NY0023973,NY093023973A,wwtp,Town of Niskayuna SD 6,Influent,3,21643,not institution specific,ny,ny,42.8,-73.86
+Schenectady,36093,Capital,12053,Duanesburg SD 1 STP,36093NY0261271SCWWD,NY0261271,NY093261271A,wwtp,Village of Delanson,Influent,0.1,749,not institution specific,ny,ny,42.75,-74.18
+Schenectady,36093,Capital,12137,Mariaville Lake SD No 2,36093NY0268437SCWWE,NY0268437,NY093268437A,wwtp,Mariaville Lake,Influent,0.1,195,not institution specific,ny,ny,42.83,-74.15
+Herkimer,36043,Mohawk Valley,13329,Dolgeville WWTP,36043NY0024554HCWWA,NY0024554,NY043024554A,wwtp,Dolgeville,Influent,2,2586,not institution specific,ny,ny,43.09,-74.77
+Herkimer,36043,Mohawk Valley,13365,Little Falls WWTP,36043NY0022403HCWWB,NY0022403,NY043022403A,wwtp,Little Falls,Influent,7,4602,not institution specific,ny,ny,43.04,-74.84
+Herkimer,36043,Mohawk Valley,13472,Old Forge WWTP,36043NY0021351HCWWC,NY0021351,NY043021351A,wwtp,Old Forge,Influent,0.45,245,not institution specific,ny,ny,43.7,-74.98
+Herkimer,36043,Mohawk Valley,13350,Herkimer WPCF,36043NY0020486HCWWD,NY0020486,NY043020486A,wwtp,Village of Herkimer,Influent,1.7,7571,not institution specific,ny,ny,43.02,-74.98
+Herkimer,36043,Mohawk Valley,13407,Herkimer Co SD WWTF,36043NY0036528HCWWE,NY0036528,NY043036528A,wwtp,Herkimer County SD,Influent,6.1,13924,not institution specific,ny,ny,43.01,-75.01
+Tioga,36107,Southern Tier,13827,Owego - V STP,36107NY0029262TCWWA,NY0029262,NY107029262A,wwtp,Village of Owego,Influent,1,3750,not institution specific,ny,ny,42.09,-76.27
+Tioga,36107,Southern Tier,13827,Owego - T SD 1,36107NY0022730TCWWB,NY0022730,NY107022730A,wwtp,Town of Owego SD 1,Influent,0.85,727,not institution specific,ny,ny,42.1,-76.23
+Tioga,36107,Southern Tier,13827,Owego - T STP 2,36107NY0025798TCWWC,NY0025798,NY107025798A,wwtp,Town of Owego SD 2,Influent,2,5331,not institution specific,ny,ny,42.07,-76.15
+Tioga,36107,Southern Tier,13812,Nichols - T STP,36107NY0262480TCWWD,NY0262480,NY107262480A,wwtp,Nichols STP,Influent,0.04,1,not institution specific,ny,ny,42.06,-76.33
+Tioga,36107,Southern Tier,14892,Waverly - V STP,36107NY0031089TCWWE,NY0031089,NY107031089A,wwtp,Village of Waverly,Influent,1.35,4792,not institution specific,ny,ny,42,-76.52
+Hamilton,36041,North Country,12164,Speculator-V STP,36041NY0026484HCWWA,NY0026484,NY041026484A,wwtp,Village of Speculator,Influent,0.3,113,not institution specific,ny,ny,43.5,-74.36
+Hamilton,36041,North Country,13360,Hamlet of Inlet WWTF,36041NY0265853HCWWB,NY0265853,NY041265853A,wwtp,Inlet,Influent,0.02,14,not institution specific,ny,ny,43.75,-74.8
+Hamilton,36041,North Country,12842,Indian Lake SD,36041NY0023329HCWWC,NY0023329,NY041023329A,wwtp,Indian Lake SD,Influent,0.14,131,not institution specific,ny,ny,43.78,-74.29
+Yates,36123,Finger Lakes,14544,Rushville - V WWTF,36123NY0161071YCWWA,NY0161071,NY123161071A,wwtp,Rushville,Influent,0.1,657,not institution specific,ny,ny,42.76,-77.23
+Yates,36123,Finger Lakes,14527,Penn Yan STP,36123NY0029726YCWWB,NY0029726,NY123029726A,wwtp,Penn Yan,Influent,1.8,5339,not institution specific,ny,ny,42.66,-77.04
+Yates,36123,Finger Lakes,14837,Dundee WWTP,36123NY0025445YCWWC,NY0025445,NY123025445A,wwtp,Dundee,Influent,0.3,1549,not institution specific,ny,ny,42.52,-76.97
+Dutchess,36027,Mid-Hudson,12583,Tivoli WWTF,36027NY0022098DCWWA,NY0022098,NY027022098A,wwtp,Village of Tivoli,Influent,0.1,907,not institution specific,ny,ny,42.05,-73.91
+Dutchess,36027,Mid-Hudson,12572,Rhinebeck - V WWTP,36027NY0110281DCWWB,NY0110281,NY027110281A,wwtp,Village of Rhinebeck,Influent,0.26,2578,not institution specific,ny,ny,41.93,-73.92
+Dutchess,36027,Mid-Hudson,12572,Vanderburgh Cove SD No 1,36027NY0099295DCWWC,NY0099295,NY027099295A,wwtp,Vanderburgh Cover SD,Influent,0.01,149,not institution specific,ny,ny,41.88,-73.92
+Dutchess,36027,Mid-Hudson,12601,Hyde Park Greenfields SD,36027NY0097896DCWWD,NY0097896,NY027097896A,wwtp,Hyde Park Greenfields SD,Influent,0.13,410,not institution specific,ny,ny,41.77,-73.88
+Dutchess,36027,Mid-Hudson,12538,Pinebrook Estates STP,36027NY0034584DCWWE,NY0034584,NY027034584A,wwtp,Pinebrook SD,Influent,,13,not institution specific,ny,ny,41.75,-73.92
+Dutchess,36027,Mid-Hudson,12508,Rombout STP,36027NY0060976DCWWF,NY0060976,NY027060976A,wwtp,Rombout,Influent,0.75,3391,not institution specific,ny,ny,41.52,-73.98
+Dutchess,36027,Mid-Hudson,12508,Beacon WPCP,36027NY0025976DCWWG,NY0025976,NY027025976A,wwtp,Beacon,Influent,6,14525,not institution specific,ny,ny,41.49,-73.98
+Dutchess,36027,Mid-Hudson,12590,Tri-Municipal WWTP,36027NY0149209DCWWI,NY0149209,NY027149209A,wwtp,Wappingers Falls,Influent,2.78,13856,not institution specific,ny,ny,41.61,-73.94
+Dutchess,36027,Mid-Hudson,12590,Wildwood SD,36027NY0037117DCWWJ,NY0037117,NY027037117A,wwtp,Wildwood SD,Influent,0.1,452,not institution specific,ny,ny,41.61,-73.9
+Dutchess,36027,Mid-Hudson,12590,Wappingers Fleetwood Manor SD,36027NY0021601DCWWK,NY0021601,NY027021601A,wwtp,Fleetwood Manor SD,Influent,0.06,306,not institution specific,ny,ny,41.56,-73.92
+Dutchess,36027,Mid-Hudson,12524,Village of Fishkill STP,36027NY0060992DCWWL,NY0060992,NY027060992A,wwtp,Village of Fishkill,Influent,0.45,8577,not institution specific,ny,ny,41.53,-73.9
+Dutchess,36027,Mid-Hudson,12564,Pawling Joint Sewer Commission WWTP,36027NY0165891DCWWM,NY0165891,NY027165891A,wwtp,Pawling,Influent,0.28,1079,not institution specific,ny,ny,41.57,-73.59
+Dutchess,36027,Mid-Hudson,12564,The Meadows of Pawling,36027NY0281107DCWWN,NY0281107,NY027281107A,wwtp,The Meadows of Pawling,Influent,0.01,399,not institution specific,ny,ny,,
+Dutchess,36027,Mid-Hudson,12545,Millbrook STP,36027NY0025429DCWWO,NY0025429,NY027025429A,wwtp,Village of Millbrook,Influent,0.25,1075,not institution specific,ny,ny,41.79,-73.7
+Dutchess,36027,Mid-Hudson,12570,Dover Ridge Estates,36027NY0164933DCWWP,NY0164933,NY027164933A,wwtp,Dover Ridge Estates,Influent,0.03,123,not institution specific,ny,ny,41.63,-73.65
+Dutchess,36027,Mid-Hudson,12570,Dalton Farms,36027NY0214531DCWWY,NY0214531,NY027214531A,wwtp,Dalton Farms,Influent,0.22,1213,not institution specific,ny,ny,41.61,-73.7
+Dutchess,36027,Mid-Hudson,12533,Four Corners SD WWTP,36027NY0270610DCWWQ,NY0270610,NY027270610A,wwtp,Four Corners SD,Influent,0.13,1761,not institution specific,ny,ny,41.59,-73.74
+Dutchess,36027,Mid-Hudson,12533,Hopewell Hamlet SD,36027NY0267953DCWWS,NY0267953,NY027267953A,wwtp,Hopewell Hamlet,Influent,0.5,424,not institution specific,ny,ny,41.57,-73.81
+Dutchess,36027,Mid-Hudson,12590,Midpoint Park SD/Royal Ridge,36027NY0035637DCWWT,NY0035637,NY027035637A,wwtp,Midpoint Park SD,Influent,0.07,694,not institution specific,ny,ny,41.62,-73.86
+Dutchess,36027,Mid-Hudson,12603,Titusville/Manchester WWTP,36027NY0264989DCWWU,NY0264989,NY027264989A,wwtp,Lagrange,Influent,0.5,2545,not institution specific,ny,ny,41.69,-73.87
+Dutchess,36027,Mid-Hudson,12569,Valley Dale STP,36027NY0077593DCWWV,NY0077593,NY027077593A,wwtp,Valley Dale,Influent,0.04,178,not institution specific,ny,ny,41.73,-73.81
+Dutchess,36027,Mid-Hudson,12533,Chelsea Cove WWTP,36027NY0032972DCWWR,NY0032972,NY027032972A,wwtp,Chelsea Cove,Influent,0.12,2629,not institution specific,ny,ny,41.61,-73.75
+Dutchess,36027,Mid-Hudson,12601,Poughkeepsie STP,36027NY0026255DCWW1,NY0026255,NY027026255A,wwtp,City of Poughkeepsie,Influent,10,38207,not institution specific,ny,ny,41.72,-73.94
+Dutchess,36027,Mid-Hudson,12601,Poughkeepsie - T Arlington WWTP,36027NY0026271DCWW2,NY0026271,NY027026271A,wwtp,Town of Poughkeepsie,Influent,4,21516,not institution specific,ny,ny,41.65,-73.94
+Westchester,36119,Mid-Hudson,10566,Peekskill WWTF,36119NY0100803WCWWA,NY0100803,NY119100803A,wwtp,Peekskill,Influent,10,44876,not institution specific,ny,ny,41.3,-73.93
+Westchester,36119,Mid-Hudson,10511,Buchanan - V STP,36119NY0029971WCWWB,NY0029971,NY119029971A,wwtp,Buchanan,Influent,0.5,2087,not institution specific,ny,ny,41.27,-73.94
+Westchester,36119,Mid-Hudson,10562,Ossining WWTP,36119NY0108324WCWWC,NY0108324,NY119108324A,wwtp,Ossining,Influent,7,40301,not institution specific,ny,ny,41.15,-73.87
+Westchester,36119,Mid-Hudson,10504,North Castle SD 2 STP,36119NY0109584WCWWD,NY0109584,NY119109584A,wwtp,North Castle,Influent,0.5,1771,not institution specific,ny,ny,41.12,-73.71
+Westchester,36119,Mid-Hudson,10705,Yonkers Joint WWTP,36119NY0026689WCWWE,NY0026689,NY119026689A,wwtp,Yonkers,Influent,120,523765,not institution specific,ny,ny,40.92,-73.91
+Westchester,36119,Mid-Hudson,10705,Yonkers Joint WWTP,36119NY0026689E001,NY0026689,NY119026689B,upstream,South Yonkers,Upstream Unknown,120,40034,not institution specific,ny,ny,40.92,-73.91
+Westchester,36119,Mid-Hudson,10705,Yonkers Joint WWTP,36119NY0026689E002,NY0026689,NY119026689C,upstream,Bronx Valley,Upstream Unknown,120,210101,not institution specific,ny,ny,40.92,-73.91
+Westchester,36119,Mid-Hudson,10705,Yonkers Joint WWTP,36119NY0026689E003,NY0026689,NY119026689D,upstream,North Yonkers,Upstream Unknown,120,42561,not institution specific,ny,ny,40.92,-73.91
+Westchester,36119,Mid-Hudson,10705,Yonkers Joint WWTP,36119NY0026689E004,NY0026689,NY119026689E,upstream,Saw Mill,Upstream Unknown,120,114627,not institution specific,ny,ny,40.92,-73.91
+Westchester,36119,Mid-Hudson,10705,Yonkers Joint WWTP,36119NY0026689E005,NY0026689,NY119026689F,upstream,Central Yonkers,Upstream Unknown,120,28989,not institution specific,ny,ny,40.92,-73.91
+Westchester,36119,Mid-Hudson,10705,Yonkers Joint WWTP,36119NY0026689E006,NY0026689,NY119026689G,upstream,Hutchinson,Upstream Unknown,120,79075,not institution specific,ny,ny,40.92,-73.91
+Westchester,36119,Mid-Hudson,10805,New Rochelle STP,36119NY0026697WCWWF,NY0026697,NY119026697A,wwtp,New Rochelle,Influent,13.6,78683,not institution specific,ny,ny,40.91,-73.77
+Westchester,36119,Mid-Hudson,10543,Mamaroneck WWTP,36119NY0026701WCWWG,NY0026701,NY119026701A,wwtp,White Plains,Influent,20.6,94095,not institution specific,ny,ny,40.95,-73.73
+Westchester,36119,Mid-Hudson,10580,Blind Brook WWTP,36119NY0026719WCWWH,NY0026719,NY119026719A,wwtp,Rye,Influent,5,26651,not institution specific,ny,ny,40.96,-73.69
+Westchester,36119,Mid-Hudson,10573,Port Chester WWTF,36119NY0026786WCWWI,NY0026786,NY119026786A,wwtp,Port Chester,Influent,6,31046,not institution specific,ny,ny,40.99,-73.66
+Westchester,36119,Mid-Hudson,10705,Yonkers Joint WWTP,36119NY0026689E007,NY0026689,NY119026689H,upstream,Upper Bronx,Upstream Unknown,120,9152,not institution specific,ny,ny,40.92,-73.91
+Westchester,36119,Mid-Hudson,10598,Yorktown Heights STP,36119NY0026743WCWWJ,NY0026743,NY119026743A,wwtp,Yorktown Heights,Influent,1.5,14252,not institution specific,ny,ny,41.28,-73.77
+Westchester,36119,Mid-Hudson,10590,Oakridge STP,36119NY0030767WCWWL,NY0030767,NY119030767A,wwtp,Oakridge,Influent,0.08,392,not institution specific,ny,ny,41.21,-73.52
+Westchester,36119,Mid-Hudson,10526,Wild Oaks SD,36119NY0065706WCWWK,NY0065706,NY119065706A,wwtp,Wild Oaks,Influent,0.06,618,not institution specific,ny,ny,41.3,-73.66
+Delaware,36025,Southern Tier,13753,Delhi - V STP,36025NY0020265DCWWA,NY0020265,NY025020265A,wwtp,Village of Delhi,Influent,1.02,1125,not institution specific,ny,ny,42.26,-74.94
+Delaware,36025,Southern Tier,13782,Hamden SD WWTP,36025NY0263133DCWWB,NY0263133,NY025263133A,wwtp,Hamden SD,Influent,0.03,4,not institution specific,ny,ny,42.19,-75
+Delaware,36025,Southern Tier,13856,Walton - V WWTP,36025NY0027154DCWWC,NY0027154,NY025027154A,wwtp,Village of Walton,Influent,1.55,1307,not institution specific,ny,ny,42.16,-75.14
+Delaware,36025,Southern Tier,13783,Hancock - V STP,36025NY0089702DCWWD,NY0089702,NY025089702A,wwtp,Village of Hancock,Influent,0.35,599,not institution specific,ny,ny,41.94,-75.28
+Delaware,36025,Southern Tier,13838,Sidney - V STP,36025NY0029271DCWWE,NY0029271,NY025029271A,wwtp,Sidney,Influent,1.7,3581,not institution specific,ny,ny,42.31,-75.4
+Delaware,36025,Southern Tier,12167,Stamford - V STP,36025NY0021555DCWWF,NY0021555,NY025021555A,wwtp,Stamford,Influent,0.7,70,not institution specific,ny,ny,42.4,-74.63
+Delaware,36025,Southern Tier,13788,Hobart - V WWTP,36025NY0029254DCWWG,NY0029254,NY025029254A,wwtp,Hobart,Influent,0.18,24,not institution specific,ny,ny,42.37,-74.68
+Delaware,36025,Southern Tier,13731,Andes STP,36025NY0262854DCWWH,NY0262854,NY025262854A,wwtp,Andes,Influent,0.06,7,not institution specific,ny,ny,42.18,-74.79
+Delaware,36025,Southern Tier,12455,Margaretville - V STP,36025NY0026531DCWWI,NY0026531,NY025026531A,wwtp,Margaretville,Influent,0.4,151,not institution specific,ny,ny,42.14,-74.65
+Delaware,36025,Southern Tier,12430,Fleischmanns WWTP,36025NY0261521DCWWJ,NY0261521,NY025261521A,wwtp,Fleischmanns,Influent,0.16,16,not institution specific,ny,ny,42.16,-74.55
+Delaware,36025,Southern Tier,12474,Denver Sewer Corp WWTP,36025NY0099562DCWWK,NY0099562,NY025099562A,wwtp,Roxbury Run,Influent,0.04,42,not institution specific,ny,ny,42.24,-74.58
+Delaware,36025,Southern Tier,12474,NYC DEP - Grand Gorge STP,36025NY0026565DCWWL,NY0026565,NY025026565A,wwtp,Grand Gorge,Influent,0.5,32,not institution specific,ny,ny,42.36,-74.47
+Delaware,36025,Southern Tier,13754,Village of Deposit WPCP,36025NY0029211DCWWM,NY0029211,NY025029211A,wwtp,Deposit,Influent,0.7,19,not institution specific,ny,ny,42.06,-75.42
+Greene,36039,Capital,12015,Athens - V Brickrow STP,36039NY0020877GCWWA,NY0020877,NY039020877A,wwtp,Athens - E Sleepy Hollow Lake,Influent,0.02,480,not institution specific,ny,ny,42.28,-73.8
+Greene,36039,Capital,12015,Athens - V Main STP,36039NY0020869GCWWB,NY0020869,NY039020869A,wwtp,Athens,Influent,0.4,1642,not institution specific,ny,ny,42.26,-73.81
+Greene,36039,Capital,12414,Catskill - V WWTP,36039NY0020389GCWWC,NY0020389,NY039020389A,wwtp,Catskill,Influent,1.55,4896,not institution specific,ny,ny,42.21,-73.86
+Greene,36039,Capital,12414,Catskill - T SD 4,36039NY0205044GCWWD,NY0205044,NY039205044A,wwtp,Smith's Landing,Influent,0.03,167,not institution specific,ny,ny,42.13,-73.92
+Greene,36039,Capital,12485,Tannersville - V STP,36039NY0026573GCWWE,NY0026573,NY039026573A,wwtp,Tannersville,Influent,0.8,565,not institution specific,ny,ny,42.19,-74.15
+Greene,36039,Capital,12442,Hunter - V WWTP,36039NY0241075GCWWF,NY0241075,NY039241075A,wwtp,Hunter,Influent,0.33,412,not institution specific,ny,ny,42.22,-74.24
+Greene,36039,Capital,12468,Prattsville STP,36039NY0263028GCWWG,NY0263028,NY039263028A,wwtp,Prattsville,Influent,0.09,67,not institution specific,ny,ny,42.32,-74.43
+Greene,36039,Capital,12496,Windham WWTF,36039NY0262935GCWWH,NY0262935,NY039262935A,wwtp,Windham,Influent,0.44,362,not institution specific,ny,ny,42.3,-74.27
+Greene,36039,Capital,12413,Cairo WWTP,36039NY0260819GCWWI,NY0260819,NY039260819A,wwtp,Cairo,Influent,0.09,303,not institution specific,ny,ny,42.31,-74
+Greene,36039,Capital,12051,Coxsackie - V STP,36039NY0033545GCWWJ,NY0033545,NY039033545A,wwtp,Coxsackie,Influent,1.25,2678,not institution specific,ny,ny,42.35,-73.79
+Greene,36039,Capital,12192,New Baltimore - T SD STP,36039NY0109151GCWWK,NY0109151,NY039109151A,wwtp,Hannacroix,Influent,0.06,372,not institution specific,ny,ny,42.46,-73.79
+Broome,36007,Southern Tier,13760,Endicott - V WPCP,36007NY0027669BCWWA,NY0027669,NY007027669A,wwtp,Endicott,Influent,10,38726,not institution specific,ny,ny,42.09,-76.09
+Broome,36007,Southern Tier,13760,Endicott - V WPCP,36007NY0027669A002,NY0027669,NY007027669B,upstream,Village of Endicott,Upstream Unknown,10,13005,not institution specific,ny,ny,42.09,-76.09
+Broome,36007,Southern Tier,13760,Endicott - V WPCP,36007NY0027669A003,NY0027669,NY007027669C,upstream,Vestal,Upstream Unknown,10,5818,not institution specific,ny,ny,42.09,-76.09
+Broome,36007,Southern Tier,13903,Parkwood SD,36007NY0213934BCWWB,NY0213934,NY007213934A,wwtp,Parkwood SD,Influent,0,38,not institution specific,ny,ny,42.03,-75.92
+Broome,36007,Southern Tier,13790,Binghamton Johnson City STP,36007NY0024414BCWWC,NY0024414,NY007024414A,wwtp,Binghamton,Influent,35,76876,not institution specific,ny,ny,42.1,-75.96
+Broome,36007,Southern Tier,13790,Binghamton Johnson City STP,36007NY0024414C002,NY0024414,NY007024414B,upstream,Binghamton - South,Upstream Unknown,35,24672,not institution specific,ny,ny,42.1,-75.96
+Broome,36007,Southern Tier,13790,Binghamton Johnson City STP,36007NY0024414C003,NY0024414,NY007024414C,upstream,Binghamton - North,Upstream Unknown,35,52501,not institution specific,ny,ny,42.1,-75.96
+Broome,36007,Southern Tier,13901,Town of Chenango SD No 10,36007NY0233200BCWWD,NY0233200,NY007233200A,wwtp,Pennview SD No 10,Influent,0.04,71,not institution specific,ny,ny,42.19,-75.9
+Broome,36007,Southern Tier,13901,Chenango Northgate WWTP,36007NY0213781BCWWE,NY0213781,NY007213781A,wwtp,Chenango,Influent,0.8,4500,not institution specific,ny,ny,42.16,-75.89
+Broome,36007,Southern Tier,13833,Fenton - T Porter Hollow Rd SD,36007NY0156299BCWWF,NY0156299,NY007156299A,wwtp,Porter Hollow Rd SD,Influent,0.01,13,not institution specific,ny,ny,42.18,-75.78
+Broome,36007,Southern Tier,13865,West Windsor WWTP,36007NY0262676BCWWG,NY0262676,NY007262676A,wwtp,West Windsor,Influent,0.11,696,not institution specific,ny,ny,42.1,-75.77
+Broome,36007,Southern Tier,13754,Sanford - T Oquaga Lake STP,36007NY0110795BCWWH,NY0110795,NY007110795A,wwtp,Oquaga Lake,Influent,0.05,42,not institution specific,ny,ny,42.01,-75.46
+Broome,36007,Southern Tier,13862,Whitney Point STP,36007NY0262552BCWWI,NY0262552,NY007262552A,wwtp,Whitney Point,Influent,0.15,1053,not institution specific,ny,ny,42.33,-75.96
+Columbia,36021,Capital,12534,Greenport - T SD 1 STP,36021NY0030988CCWWA,NY0030988,NY021030988A,wwtp,Greenport SD,Influent,1.35,2853,not institution specific,ny,ny,42.26,-73.76
+Columbia,36021,Capital,12534,Hudson - C STP,36021NY0022039CCWWB,NY0022039,NY021022039A,wwtp,Hudson,Influent,2.8,6374,not institution specific,ny,ny,42.26,-73.79
+Columbia,36021,Capital,12173,Stockport - T Kings Acres STP,36021NY0031291CCWWC,NY0031291,NY021031291A,wwtp,Stockport,Influent,0.06,790,not institution specific,ny,ny,42.33,-73.75
+Columbia,36021,Capital,12184,Valatie STP,36021NY0021806CCWWD,NY0021806,NY021021806A,wwtp,Valatie,Influent,0.25,1573,not institution specific,ny,ny,42.41,-73.69
+Columbia,36021,Capital,12037,Chatham - V STP,36021NY0023582CCWWE,NY0023582,NY021023582A,wwtp,Chatham,Influent,0.36,1766,not institution specific,ny,ny,42.37,-73.6
+Columbia,36021,Capital,12534,Columbia County Commerce Center,36021NY0240401CCWWF,NY0240401,NY021240401A,wwtp,Columbia County Commerce Center,Influent,0.05,10,not institution specific,ny,ny,,
+Columbia,36021,Capital,12534,Village of Philmont WWTP,36021NY0030996CCWWG,NY0030996,NY021030996A,wwtp,Village of Philmont,Influent,0.25,1142,not institution specific,ny,ny,42.25,-73.66
+Columbia,36021,Capital,12529,Hillsdale Sewer Project,36021NY0268771CCWWH,NY0268771,NY021268771A,wwtp,Hillsdale SD,Influent,0.04,109,not institution specific,ny,ny,42.18,-73.52
+Columbia,36021,Capital,12526,Germantown WWTP,36021NY0260479CCWWI,NY0260479,NY021260479A,wwtp,Germantown,Influent,0.1,193,not institution specific,ny,ny,42.13,-73.9
+Livingston,36051,Finger Lakes,14423,Avon - V WWTP,36051NY0024449LCWWA,NY0024449,NY051024449A,wwtp,Village of Avon,Influent,2.75,3288,not institution specific,ny,ny,42.92,-77.76
+Livingston,36051,Finger Lakes,14485,Lima - V WWTP,36051NY0022420LCWWB,NY0022420,NY051022420A,wwtp,Lima,Influent,0.3,2056,not institution specific,ny,ny,42.92,-77.61
+Livingston,36051,Finger Lakes,14480,Lakeville WWTP,36051NY0032328LCWWC,NY0032328,NY051032328A,wwtp,Lakeville,Influent,0.98,5361,not institution specific,ny,ny,42.85,-77.71
+Livingston,36051,Finger Lakes,14454,Geneseo - V WWTP,36051NY0030635LCWWD,NY0030635,NY051030635A,wwtp,Geneseo,Influent,1.5,15688,not institution specific,ny,ny,42.81,-77.82
+Livingston,36051,Finger Lakes,14533,Town of York WWTF,36051NY0023990LCWWE,NY0023990,NY051023990A,wwtp,Town of York SD,Influent,0.3,1469,not institution specific,ny,ny,42.84,-77.88
+Livingston,36051,Finger Lakes,14510,Mt Morris - V STP,36051NY0030741LCWWF,NY0030741,NY051030741A,wwtp,Mount Morris,Influent,0.86,2843,not institution specific,ny,ny,42.73,-77.87
+Livingston,36051,Finger Lakes,14437,Groveland Station STP,36051NY0247227LCWWG,NY0247227,NY051247227A,wwtp,Groveland Station,Influent,0.06,193,not institution specific,ny,ny,42.66,-77.77
+Livingston,36051,Finger Lakes,14517,Nunda - V STP,36051NY0108421LCWWH,NY0108421,NY051108421A,wwtp,Nunda,Influent,0.2,1182,not institution specific,ny,ny,42.58,-77.93
+Livingston,36051,Finger Lakes,14560,Springwater - T WWTP,36051NY0246450LCWWI,NY0246450,NY051246450A,wwtp,Town of Springwater SD,Influent,0.04,209,not institution specific,ny,ny,42.64,-77.6
+Livingston,36051,Finger Lakes,14437,Dansville - V WWTP,36051NY0024384LCWWJ,NY0024384,NY051024384A,wwtp,Dansville,Influent,1.5,4730,not institution specific,ny,ny,42.57,-77.72
+Chenango,36017,Southern Tier,13464,Smyrna - V WWTF,36017NY0244287CCWWA,NY0244287,NY017244287A,wwtp,Village of Smyrna,Influent,0.02,182,not institution specific,ny,ny,42.69,-75.56
+Chenango,36017,Southern Tier,13460,Sherburne - V STP,36017NY0021466CCWWB,NY0021466,NY017021466A,wwtp,Sherburne,Influent,0.43,1287,not institution specific,ny,ny,42.68,-75.51
+Chenango,36017,Southern Tier,13815,Norwich - C WWTP,36017NY0021423CCWWC,NY0021423,NY017021423A,wwtp,Norwich,Influent,2.2,6734,not institution specific,ny,ny,42.51,-75.52
+Chenango,36017,Southern Tier,13830,Oxford - V STP,36017NY0156876CCWWD,NY0156876,NY017156876A,wwtp,Oxford,Influent,0.2,1249,not institution specific,ny,ny,42.44,-75.6
+Chenango,36017,Southern Tier,13778,Green - V STP,36017NY0021407CCWWE,NY0021407,NY017021407A,wwtp,Greene,Influent,0.45,1560,not institution specific,ny,ny,42.32,-75.77
+Chenango,36017,Southern Tier,13733,Bainbridge - V STP,36017NY0030597CCWWF,NY0030597,NY017030597A,wwtp,Bainbridge,Influent,0.32,1152,not institution specific,ny,ny,42.29,-75.48
+Nassau,36059,Long Island,11050,Port Washington WPCP,36059NY0026778NCWWA,NY0026778,NY059026778A,wwtp,Port Washington,Influent,4,20616,not institution specific,ny,ny,40.84,-73.7
+Nassau,36059,Long Island,11542,Glen Cove WWTF,36059NY0026620NCWWB,NY0026620,NY059026620A,wwtp,Glen Cove,Influent,5.5,27494,not institution specific,ny,ny,40.86,-73.64
+Nassau,36059,Long Island,11732,Oyster Bay STP,36059NY0021822NCWWC,NY0021822,NY059021822A,wwtp,Oyster Bay,Influent,1.8,5824,not institution specific,ny,ny,40.88,-73.53
+Nassau,36059,Long Island,11021,Belgrave WPCD,36059NY0026841NCWWD,NY0026841,NY059026841A,wwtp,Belgrave,Influent,2,8288,not institution specific,ny,ny,40.78,-73.74
+Nassau,36059,Long Island,11023,Great Neck WPCD,36059NY0026999NCWWE,NY0026999,NY059026999A,wwtp,Great Neck,Influent,5.3,24041,not institution specific,ny,ny,40.8,-73.71
+Nassau,36059,Long Island,11509,Greater Atlantic Beach WWTP,36059NY0023523NCWWF,NY0023523,NY059023523A,wwtp,Atlantic Beach,Influent,1.5,1326,not institution specific,ny,ny,40.59,-73.74
+Nassau,36059,Long Island,11561,Long Beach WPCP,36059NY0020567NCWWG,NY0020567,NY059020567A,wwtp,Long Beach,Influent,7.5,33939,not institution specific,ny,ny,40.59,-73.67
+Nassau,36059,Long Island,11518,Bay Park STP,36059NY0026450NCWWH,NY0026450,NY059026450A,wwtp,Bay Park,Influent,70,611349,not institution specific,ny,ny,40.63,-73.66
+Nassau,36059,Long Island,11793,Cedar Creek WPCP,36059NY0026859NCWWI,NY0026859,NY059026859A,wwtp,Cedar Creek,Influent,72,524955,not institution specific,ny,ny,40.65,-73.51
+Seneca,36099,Finger Lakes,13165,Waterloo - V STP,36099NY0022365SCWWA,NY0022365,NY099022365A,wwtp,Waterloo,Influent,0.8,6160,not institution specific,ny,ny,42.9,-76.85
+Seneca,36099,Finger Lakes,13148,Seneca Falls WWTP,36099NY0033308SCWWB,NY0033308,NY099033308A,wwtp,Seneca Falls,Influent,3.5,6961,not institution specific,ny,ny,42.91,-76.78
+Seneca,36099,Finger Lakes,14541,Seneca Co SD No 2 STP,36099NY0246972SCWWC,NY0246972,NY099246972A,wwtp,Romulus and E Seneca Lake,Influent,0.66,3080,not institution specific,ny,ny,42.74,-76.83
+Seneca,36099,Finger Lakes,14521,Seneca Co SD No 1 STP,36099NY0160407SCWWD,NY0160407,NY099160407A,wwtp,Village of Ovid,Influent,0.7,1008,not institution specific,ny,ny,42.67,-76.88
+Seneca,36099,Finger Lakes,14847,Interlaken - V STP,36099NY0029289SCWWF,NY0029289,NY099029289A,wwtp,Interlaken,Influent,0.1,594,not institution specific,ny,ny,42.62,-76.72
+New York,36061,New York City,10032,North River WWTP,36061NY0026247NYCWWA,NY0026247,NY061026247A,wwtp,North River,Influent,170,655795,not institution specific,nz,ny,40.83,-73.96
+New York,36061,New York City,10035,Wards Island WWTP,36061NY0026131NYCWWB,NY0026131,NY061026131A,wwtp,Wards Island,Influent,275,1197129,not institution specific,nz,ny,40.79,-73.92
+Bronx,36005,New York City,10474,Hunts Point WWTP,36005NY0026191NYCWWC,NY0026191,NY005026191A,wwtp,Hunts Point,Influent,200,769120,not institution specific,nz,ny,40.8,-73.88
+Queens,36081,New York City,11356,Tallman Island WWTP,36081NY0026239NYCWWD,NY0026239,NY081026239A,wwtp,Tallman Island,Influent,80,444823,not institution specific,nz,ny,40.8,-73.84
+Queens,36081,New York City,11105,Bowery Bay WWTP,36081NY0026158NYCWWE,NY0026158,NY081026158A,wwtp,Bowery Bay,Influent,150,824156,not institution specific,nz,ny,40.78,-73.89
+Queens,36081,New York City,11430,Jamaica WWTP,36081NY0026115NYCWWF,NY0026115,NY081026115A,wwtp,Jamaica,Influent,100,798883,not institution specific,nz,ny,40.66,-73.81
+Kings,36047,New York City,11222,Newtown Creek WWTP,36047NY0026204NYCWWG,NY0026204,NY047026204A,wwtp,Newtown Creek,Influent,310,1197476,not institution specific,nz,ny,40.73,-73.95
+Kings,36047,New York City,11251,Red Hook WWTP,36047NY0027073NYCWWH,NY0027073,NY047027073A,wwtp,Red Hook,Influent,60,251164,not institution specific,nz,ny,40.7,-73.98
+Kings,36047,New York City,11220,Owls Head WWTP,36047NY0026166NYCWWI,NY0026166,NY047026166A,wwtp,Owls Head,Influent,120,825096,not institution specific,nz,ny,40.64,-74.03
+Kings,36047,New York City,11239,26th Ward WWTP,36047NY0026212NYCWWJ,NY0026212,NY047026212A,wwtp,26th Ward,Influent,85,295778,not institution specific,nz,ny,40.65,-73.88
+Kings,36047,New York City,11229,Coney Island WWTP,36047NY0026182NYCWWK,NY0026182,NY047026182A,wwtp,Coney Island,Influent,110,710768,not institution specific,nz,ny,40.59,-73.93
+Queens,36081,New York City,11694,Rockaway WWTP,36081NY0026221NYCWWL,NY0026221,NY081026221A,wwtp,Rockaway,Influent,45,131254,not institution specific,nz,ny,40.58,-73.83
+Richmond,36085,New York City,10306,Oakwood Beach WWTP,36085NY0026174NYCWWM,NY0026174,NY085026174A,wwtp,Oakwood Beach,Influent,39.9,266371,not institution specific,nz,ny,40.55,-74.12
+Richmond,36085,New York City,10310,Port Richmond WWTP,36085NY0026107NYCWWN,NY0026107,NY085026107A,wwtp,Port Richmond,Influent,60,210680,not institution specific,nz,ny,40.64,-74.13
+Montgomery,36057,Mohawk Valley,13339,St Johnsville STP,36057NY0024333MCWWA,NY0024333,NY057024333A,wwtp,St Johnsville,Influent,2,1537,not institution specific,ny,ny,42.99,-74.68
+Montgomery,36057,Mohawk Valley,13339,Montgomery Co SD 1,36057NY0107565MCWWB,NY0107565,NY057107565A,wwtp,Village of Fort Plain,Influent,1,2270,not institution specific,ny,ny,42.92,-74.61
+Montgomery,36057,Mohawk Valley,13428,Canajoharie - V STP,36057NY0023485MCWWC,NY0023485,NY057023485A,wwtp,Canajoharie,Influent,2.8,2619,not institution specific,ny,ny,42.91,-74.57
+Montgomery,36057,Mohawk Valley,12068,Fonda-Fultonville Joint WWTP,36057NY0032433MCWWD,NY0032433,NY057032433A,wwtp,Fonda-Fultoville,Influent,1.2,1479,not institution specific,ny,ny,42.95,-74.36
+Montgomery,36057,Mohawk Valley,12010,Amsterdam - C WWTP,36057NY0020290MCWWE,NY0020290,NY057020290A,wwtp,Amsterdam,Influent,10,19679,not institution specific,ny,ny,42.92,-74.17
+Rockland,36087,Mid-Hudson,10901,Suffern - V STP,36087NY0022748RCWWA,NY0022748,NY087022748A,wwtp,Suffern,Influent,1.8,10890,not institution specific,ny,ny,41.11,-74.16
+Rockland,36087,Mid-Hudson,10980,Stony Point STP,36087NY0028851RCWWB,NY0028851,NY087028851A,wwtp,Stony Point,Influent,1,12676,not institution specific,ny,ny,41.22,-73.97
+Rockland,36087,Mid-Hudson,10993,Haverstraw Joint Regional STP,36087NY0028533RCWWC,NY0028533,NY087028533A,wwtp,Haverstraw,Influent,8,36527,not institution specific,ny,ny,41.21,-73.97
+Rockland,36087,Mid-Hudson,10901,Western Ramapo Advanded WWTP,36087NY0270598RCWWD,NY0270598,NY087270598A,wwtp,Village of Hillburn and Village of Sloatsburg,Influent,1.5,4115,not institution specific,ny,ny,41.12,-74.16
+Rockland,36087,Mid-Hudson,10962,Orangetown SD No 2 STP,36087NY0026051RCWWE,NY0026051,NY087026051A,wwtp,Orangetown,Influent,12.75,53437,not institution specific,ny,ny,41.04,-73.94
+Rockland,36087,Mid-Hudson,10962,Rockland Co SD No 1,36087NY0031895RCWWF,NY0031895,NY087031895A,wwtp,Rockland Co SD,Influent,28.9,207430,not institution specific,ny,ny,41.04,-73.94
+Fulton,36035,Mohawk Valley,12117,Northampton Sacandaga Park SD,36035NY0030066FCWWA,NY0030066,NY035030066A,wwtp,Sacandaga Park,Influent,0.08,43,not institution specific,ny,ny,43.21,-74.18
+Fulton,36035,Mohawk Valley,12117,Village of Mayfiled WWTP,36035NY0252042FCWWB,NY0252042,NY035252042A,wwtp,Village of Mayfield,Influent,0.12,753,not institution specific,ny,ny,43.1,-74.26
+Fulton,36035,Mohawk Valley,12010,Village of Broadalbin WWTF,36035NY0251739FCWWC,NY0251739,NY035251739A,wwtp,Village of Broadalbin,Influent,0.15,1455,not institution specific,ny,ny,43.05,-74.2
+Fulton,36035,Mohawk Valley,12095,Gloversville-Johnstown Joint WWTP,36035NY0026042FCWWD,NY0026042,NY035026042A,wwtp,Johnstown,Influent,10.2,23379,not institution specific,ny,ny,42.99,-74.4
+Schuyler,36097,Southern Tier,14865,Catharine Valley Treatment Plant,36097NY0271942SCWWA,NY0271942,NY097271942A,wwtp,Villages of Watkins Glen and Montour Falls,Influent,1.2,3656,not institution specific,ny,ny,42.37,-76.86
+Schuyler,36097,Southern Tier,14869,Odessa Village WWTP Facility,36097NY0272183SCWWB,NY0272183,NY097272183A,wwtp,Village of Odessa,Influent,0.02,404,not institution specific,ny,ny,42.33,-76.8
+Monroe,36055,Finger Lakes,14580,Webster - V WWTP,36055NY0026794MCWW5,NY0026794,NY055026794A,wwtp,Village of Webster,Influent,2.5,6400,not institution specific,ny,ny,43.2117833,-77.4312523

@@ -1,0 +1,8 @@
+system,ww_cutoff,n_unaggregated_lineages,n_aggregated_lineages
+Clinical,,1671,101
+Wastewater,0.01,3227,103
+Wastewater,0.02,2838,103
+Wastewater,0.04,2506,103
+Wastewater,0.08,2131,103
+Wastewater,0.16,1675,102
+Wastewater,0.32,1221,98
